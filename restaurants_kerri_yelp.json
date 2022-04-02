@@ -1,0 +1,2786 @@
+{
+    "businesses": [
+        {
+            "id": "S6QRnCQVpEqQRyszrF51bw",
+            "alias": "ajisai-sushi-bar-vancouver",
+            "name": "Ajisai Sushi Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kMtiTuXmuoGMEjxhwsDn1Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ajisai-sushi-bar-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 388,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.233870067400616,
+                "longitude": -123.15368540804255
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2081 West 42nd Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3V3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2081 West 42nd Avenue",
+                    "Vancouver, BC V6M 3V3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042661428",
+            "display_phone": "+1 604-266-1428",
+            "distance": 113.62220797483033
+        },
+        {
+            "id": "yhlLjEZUhzPES8vrtcPGrA",
+            "alias": "nanas-green-tea-vancouver",
+            "name": "Nana's Green Tea",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tD6JIv_n9t8hKPBUIjuLLQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nanas-green-tea-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 155,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.23485,
+                "longitude": -123.15657
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2135 W 41st Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z6",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2135 W 41st Avenue",
+                    "Vancouver, BC V6M 1Z6",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042635054",
+            "display_phone": "+1 604-263-5054",
+            "distance": 120.40353995970784
+        },
+        {
+            "id": "MpGtJrWJ-OpPPAG8mYsZsg",
+            "alias": "faubourg-vancouver-5",
+            "name": "Faubourg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z0DwJ6NoVYoVkqTVefFPdQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/faubourg-vancouver-5?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 170,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2344771,
+                "longitude": -123.1574179
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2156 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z1",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2156 W 41st Avenue",
+                    "Vancouver, BC V6M 1Z1",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042662156",
+            "display_phone": "+1 604-266-2156",
+            "distance": 174.18271009136015
+        },
+        {
+            "id": "EoqXsWs6klHRMVNczUXdcA",
+            "alias": "honolulu-coffee-vancouver-4",
+            "name": "Honolulu Coffee",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vr34c28fDsP8E5nNhxXImA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/honolulu-coffee-vancouver-4?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 64,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2344086532541,
+                "longitude": -123.154816643939
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2098 W 41 Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2098 W 41 Avenue",
+                    "Vancouver, BC V6M 1Y8",
+                    "Canada"
+                ]
+            },
+            "phone": "+16046202168",
+            "display_phone": "+1 604-620-2168",
+            "distance": 14.905106804736734
+        },
+        {
+            "id": "zmYA1VtGZZ8aJt5lmkQlyQ",
+            "alias": "pho-tans-vietnamese-restaurant-vancouver",
+            "name": "Pho Tan's Vietnamese Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QE538-D-CCcLHPD96pUH-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pho-tans-vietnamese-restaurant-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 97,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.234456,
+                "longitude": -123.1544154
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2076 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2076 W 41st Avenue",
+                    "Vancouver, BC V6M 1Y8",
+                    "Canada"
+                ]
+            },
+            "phone": "+16046060688",
+            "display_phone": "+1 604-606-0688",
+            "distance": 45.340765764583765
+        },
+        {
+            "id": "T9GZcUdN5OW6VSJnPOprOw",
+            "alias": "sofra-mediterranean-kitchen-vancouver-3",
+            "name": "Sofra Mediterranean Kitchen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_P2bv5Lj_eBIOvgW_9kPzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sofra-mediterranean-kitchen-vancouver-3?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 91,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.23488,
+                "longitude": -123.1593
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2277 W 41st Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2277 W 41st Ave",
+                    "Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045583287",
+            "display_phone": "+1 604-558-3287",
+            "distance": 302.0410168166681
+        },
+        {
+            "id": "q3reTj4jxslkpffupk5R0w",
+            "alias": "bufala-vancouver",
+            "name": "Bufala",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7g_xa5wt2cQyIQp23BgIAw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bufala-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 142,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2374125128053,
+                "longitude": -123.155639817237
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5395 West Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3W4",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5395 West Blvd",
+                    "Vancouver, BC V6M 3W4",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042677499",
+            "display_phone": "+1 604-267-7499",
+            "distance": 337.7625613658632
+        },
+        {
+            "id": "nhZTm70-7CCRw4yIQXaHLQ",
+            "alias": "secret-garden-tea-vancouver",
+            "name": "Secret Garden Tea",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mWAX8P_YJXD7BpJfenHwmg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/secret-garden-tea-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 83,
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2354074,
+                "longitude": -123.1565064
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2138 W 40th Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3W7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2138 W 40th Avenue",
+                    "Vancouver, BC V6M 3W7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042613070",
+            "display_phone": "+1 604-261-3070",
+            "distance": 137.90848621369972
+        },
+        {
+            "id": "VRIQwLCLYJqzmxzGCUUPOQ",
+            "alias": "sip-bowl-la-mian-vancouver-2",
+            "name": "Sip Bowl La Mian",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C94SdTFz0pugbXQTzOwTnA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sip-bowl-la-mian-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 70,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2347871,
+                "longitude": -123.1588421
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2255 W 41 Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 4L3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2255 W 41 Ave",
+                    "Vancouver, BC V6M 4L3",
+                    "Canada"
+                ]
+            },
+            "phone": "+17787373999",
+            "display_phone": "+1 778-737-3999",
+            "distance": 273.7950698752687
+        },
+        {
+            "id": "IIQEpQFQgsc_NTDEUOzcoA",
+            "alias": "golden-ocean-seafood-restaurant-vancouver",
+            "name": "Golden Ocean Seafood Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yINzp3AFazou7aCaChVZKw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/golden-ocean-seafood-restaurant-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 91,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2343601354469,
+                "longitude": -123.153391312863
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2046 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2046 W 41st Avenue",
+                    "Vancouver, BC V6M 1Y8",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042638886",
+            "display_phone": "+1 604-263-8886",
+            "distance": 118.46520698861097
+        },
+        {
+            "id": "EgAoYUdZdbzNE8Zhcax_tw",
+            "alias": "41-noodle-and-rice-pot-house-vancouver",
+            "name": "41 Noodle & Rice Pot House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BUz5qjdmc_5h5qfTzjRg0w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/41-noodle-and-rice-pot-house-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2347908,
+                "longitude": -123.1592245
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2279 West 41st Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2279 West 41st Avenue",
+                    "Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+17783712376",
+            "display_phone": "+1 778-371-2376",
+            "distance": 304.3566746681168
+        },
+        {
+            "id": "jR5KXCNnG89b8qPM_5mRbA",
+            "alias": "baan-wasana-thai-restaurant-vancouver",
+            "name": "Baan Wasana Thai Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hInGPcQHI0LOmHO7Kg-FmQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/baan-wasana-thai-restaurant-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 63,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.23485,
+                "longitude": -123.15675
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2143 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z6",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2143 41st Avenue",
+                    "Vancouver, BC V6M 1Z6",
+                    "Canada"
+                ]
+            },
+            "phone": "+17783718971",
+            "display_phone": "+1 778-371-8971",
+            "distance": 124.89908560673089
+        },
+        {
+            "id": "Ln24HNdebr87jBxYULcjAA",
+            "alias": "minerva-restaurant-vancouver",
+            "name": "Minerva Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7NkaS4HqYK8ojD_4TYWgpg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/minerva-restaurant-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 88,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2346862,
+                "longitude": -123.1615423
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2411 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 2A5",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2411 W 41st Avenue",
+                    "Vancouver, BC V6M 2A5",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042631774",
+            "display_phone": "+1 604-263-1774",
+            "distance": 474.4928938457845
+        },
+        {
+            "id": "RR6KQAb-386ZDvtMWP2xoQ",
+            "alias": "fish-caf\u00e9-vancouver-3",
+            "name": "Fish Caf\u00e9",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ADoYkf12WO7cKrWx5Dmljg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fish-caf%C3%A9-vancouver-3?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 59,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "fishnchips",
+                    "title": "Fish & Chips"
+                },
+                {
+                    "alias": "newcanadian",
+                    "title": "Canadian (New)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.23481,
+                "longitude": -123.15367
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2053 41st Avenue W",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2053 41st Avenue W",
+                    "Vancouver, BC V6M 1Y7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042673474",
+            "display_phone": "+1 604-267-3474",
+            "distance": 113.86636861307908
+        },
+        {
+            "id": "ORz5fglS1R9_FHCtKAtbow",
+            "alias": "zubu-vancouver-3",
+            "name": "ZUBU",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Gw6uUxwcfp70cYoYR7LYmg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zubu-vancouver-3?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.234701,
+                "longitude": -123.156413
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2129 West 41st Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z6",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2129 West 41st Avenue",
+                    "Vancouver, BC V6M 1Z6",
+                    "Canada"
+                ]
+            },
+            "phone": "+17783798889",
+            "display_phone": "+1 778-379-8889",
+            "distance": 106.35428862558165
+        },
+        {
+            "id": "LrpF_eclp1j3phZ3nxPhEA",
+            "alias": "china-lan-beef-noodle-vancouver",
+            "name": "China Lan Beef Noodle",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/63BbwkPhrjQpGM4cGGN-fg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/china-lan-beef-noodle-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2359557748092,
+                "longitude": -123.15564021118
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5555 W Boulevard",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3X1",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5555 W Boulevard",
+                    "Vancouver, BC V6M 3X1",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045599488",
+            "display_phone": "+1 604-559-9488",
+            "distance": 178.52679475919544
+        },
+        {
+            "id": "OzgQESSaSPFyTyGADifzYg",
+            "alias": "la-cuisson-cafe-vancouver",
+            "name": "La Cuisson Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3KeHKwemcwnMmxeqGm-DwQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-cuisson-cafe-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2344325,
+                "longitude": -123.1535583
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2050 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2050 W 41st Avenue",
+                    "Vancouver, BC V6M 1Y8",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045582589",
+            "display_phone": "+1 604-558-2589",
+            "distance": 92.54141673565431
+        },
+        {
+            "id": "qyVFbtiVCBWdQBeqPVIkrQ",
+            "alias": "asa-sushi-vancouver",
+            "name": "Asa Sushi",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tzHok6gFX4YDmxA6xYIwdA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/asa-sushi-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 108,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2345051,
+                "longitude": -123.1579902
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2178 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z1",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2178 W 41st Avenue",
+                    "Vancouver, BC V6M 1Z1",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042670077",
+            "display_phone": "+1 604-267-0077",
+            "distance": 213.1687085618507
+        },
+        {
+            "id": "Xs0OvJV8YnrgLyTYF0nEVQ",
+            "alias": "baoguette-vietnamese-bistro-vancouver-3",
+            "name": "Baoguette Vietnamese Bistro",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xTqzxTBkGDTPIoctGJo2_w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/baoguette-vietnamese-bistro-vancouver-3?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 64,
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2344772440628,
+                "longitude": -123.156188763678
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2114 West 41st Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z2",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2114 West 41st Avenue",
+                    "Vancouver, BC V6M 1Z2",
+                    "Canada"
+                ]
+            },
+            "phone": "+17783791494",
+            "display_phone": "+1 778-379-1494",
+            "distance": 85.1520553788042
+        },
+        {
+            "id": "yCP29ftlTx2kh6BhUjqcQg",
+            "alias": "moores-bakery-and-delicatessen-vancouver",
+            "name": "Moore's Bakery & Delicatessen",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ftPaQ5iZJZ0tHFKcVbynCw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/moores-bakery-and-delicatessen-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2344793,
+                "longitude": -123.1567192
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2128 41st Avenue W",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z1",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2128 41st Avenue W",
+                    "Vancouver, BC V6M 1Z1",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042612922",
+            "display_phone": "+1 604-261-2922",
+            "distance": 124.70259999822773
+        },
+        {
+            "id": "YDPyBiRJsT5K5nwN97ANOQ",
+            "alias": "nandos-peri-peri-vancouver-2",
+            "name": "Nando's PERi-PERi",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p_Hnqv2wVIY9TdIIDMNjjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nandos-peri-peri-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 55,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                },
+                {
+                    "alias": "african",
+                    "title": "African"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2342436,
+                "longitude": -123.15406
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2064 West 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6P 5K5",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2064 West 41st Avenue",
+                    "Vancouver, BC V6P 5K5",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042664485",
+            "display_phone": "+1 604-266-4485",
+            "distance": 72.01417772779479
+        },
+        {
+            "id": "nTHNvw_KPJr1J93LqyHxIQ",
+            "alias": "kerrisdale-nakamura-vancouver",
+            "name": "Kerrisdale Nakamura",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eEjJiHOgZIR5jpn-wl_BTQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kerrisdale-nakamura-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2347012,
+                "longitude": -123.1535214
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2055 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2055 W 41st Avenue",
+                    "Vancouver, BC V6M 1Y7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042664200",
+            "display_phone": "+1 604-266-4200",
+            "distance": 112.04193785997454
+        },
+        {
+            "id": "TUDO-Fx8im8w0UGpAAZp1Q",
+            "alias": "burrata-pizzeria-vancouver",
+            "name": "Burrata Pizzeria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6u4HKo3QwYUHnxRLXJk1_w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burrata-pizzeria-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2344751,
+                "longitude": -123.1558066
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2104 W 41st Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z2",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2104 W 41st Avenue",
+                    "Vancouver, BC V6M 1Z2",
+                    "Canada"
+                ]
+            },
+            "phone": "+16049018888",
+            "display_phone": "+1 604-901-8888",
+            "distance": 66.25940439447862
+        },
+        {
+            "id": "g43Z3c7v7FcBVO-aw0gkVg",
+            "alias": "chef-hung-taiwanese-beef-noodle-vancouver-4",
+            "name": "Chef Hung Taiwanese Beef Noodle",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tBhfqW4aJvNkTQtea0J7tQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chef-hung-taiwanese-beef-noodle-vancouver-4?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 44,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2342299,
+                "longitude": -123.15298
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2028 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2028 W 41st Avenue",
+                    "Vancouver, BC V6M 1Y8",
+                    "Canada"
+                ]
+            },
+            "phone": "+17783798865",
+            "display_phone": "+1 778-379-8865",
+            "distance": 149.76772884599256
+        },
+        {
+            "id": "0t0r4g6T4jbdU8VYEnsOiA",
+            "alias": "khao-thai-by-legato-vancouver",
+            "name": "Khao Thai By Legato",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9M10JCfC2yZpXQ2qXk3CYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/khao-thai-by-legato-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.23452,
+                "longitude": -123.1591192
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2248 W 41st Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2248 W 41st Avenue",
+                    "Vancouver, BC V6M 1Z8",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042641666",
+            "display_phone": "+1 604-264-1666",
+            "distance": 303.76430558499203
+        },
+        {
+            "id": "sHoiDH1EHmqC78KFtovOtw",
+            "alias": "barra-41-vancouver",
+            "name": "Barra 41",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eb6joQL9kaTxPWqacD7PtA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barra-41-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2347889800047,
+                "longitude": -123.161461915346
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2407 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 2A5",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2407 W 41st Avenue",
+                    "Vancouver, BC V6M 2A5",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042631774",
+            "display_phone": "+1 604-263-1774",
+            "distance": 469.57853357413876
+        },
+        {
+            "id": "lNUEu1vs32zRMzH49s6gOQ",
+            "alias": "bbt-cafe-vancouver",
+            "name": "BBT Cafe",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5IFRIA6HogiIQ33H_4o4JQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bbt-cafe-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 55,
+            "categories": [
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2310505335525,
+                "longitude": -123.155708312988
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5979 W Boulevard",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3X1",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5979 W Boulevard",
+                    "Vancouver, BC V6M 3X1",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042662195",
+            "display_phone": "+1 604-266-2195",
+            "distance": 375.9718181179531
+        },
+        {
+            "id": "cI8qA_Ez7Ew1ilmMdVSe9A",
+            "alias": "legato-tea-and-coffee-vancouver",
+            "name": "Legato Tea and Coffee",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EOLj7E0HFZUbqEK32DBkaA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/legato-tea-and-coffee-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.234794,
+                "longitude": -123.1595431
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2299 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2299 W 41st Avenue",
+                    "Vancouver, BC V6M",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 333.99596882142146
+        },
+        {
+            "id": "GcC9OvHrArIZVs1e8i2J5Q",
+            "alias": "jess-restaurant-vancouver",
+            "name": "Jess' Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HlQMrCi_Lwjuvd9FQ1vaXA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jess-restaurant-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.23469310222751,
+                "longitude": -123.15724723041058
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2179 W 41st Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z6",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2179 W 41st Ave",
+                    "Vancouver, BC V6M 1Z6",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 164.8026073851299
+        },
+        {
+            "id": "vEqwWv-muoKqkHHz_9_0AQ",
+            "alias": "irashai-sushi-vancouver",
+            "name": "Irashai Sushi",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d7Qc9sOQjCFdBvya8OjsZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/irashai-sushi-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2345214,
+                "longitude": -123.1592684
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2260 41st Avenue W",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2260 41st Avenue W",
+                    "Vancouver, BC V6M 1Z8",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042669332",
+            "display_phone": "+1 604-266-9332",
+            "distance": 312.8439884284875
+        },
+        {
+            "id": "R4Ycmx-tEioL8gSj8WRONw",
+            "alias": "orange-corner-vancouver",
+            "name": "Orange Corner",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l15bSttZH13OxiptyeQjxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/orange-corner-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 60,
+            "categories": [
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                },
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 49.2347874,
+                "longitude": -123.158874
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2257 41st Avenue W",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2257 41st Avenue W",
+                    "Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042667388",
+            "display_phone": "+1 604-266-7388",
+            "distance": 274.72741169575363
+        },
+        {
+            "id": "R-KPTWap9rmIFLa0g1Um1w",
+            "alias": "jiu-jiang-japanese-restaurant-vancouver-2",
+            "name": "Jiu Jiang Japanese Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SwrtBEZnlKslLLwNWLkldQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jiu-jiang-japanese-restaurant-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 23,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2344941011745,
+                "longitude": -123.161394931376
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5707 Balsam Street",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 4B8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5707 Balsam Street",
+                    "Vancouver, BC V6M 4B8",
+                    "Canada"
+                ]
+            },
+            "phone": "+17783798858",
+            "display_phone": "+1 778-379-8858",
+            "distance": 462.8530839703294
+        },
+        {
+            "id": "34wg_PSUailK0WJq7fKM_A",
+            "alias": "chi-noodle-bar-vancouver-2",
+            "name": "Chi Noodle Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LkfYSirzhxM-_ySJMzM5Ig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chi-noodle-bar-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2316639455395,
+                "longitude": -123.155790996545
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6019 West Boulevard",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V5H 3Z7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "6019 West Boulevard",
+                    "Vancouver, BC V5H 3Z7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16044288631",
+            "display_phone": "+1 604-428-8631",
+            "distance": 309.52546694783933
+        },
+        {
+            "id": "rgruUXde9ATkVZfnkm0SPQ",
+            "alias": "me-crepe-vancouver-5",
+            "name": "Me + Crepe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pYJjL6_kn1BfO6w5RTAboQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/me-crepe-vancouver-5?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2321356,
+                "longitude": -123.1558793
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5971 West Boulevard",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3X1",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5971 West Boulevard",
+                    "Vancouver, BC V6M 3X1",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042639596",
+            "display_phone": "+1 604-263-9596",
+            "distance": 256.0253619823379
+        },
+        {
+            "id": "lS9GSlXPKvlnFEG20AE4ig",
+            "alias": "southern-delicacy-vancouver",
+            "name": "Southern Delicacy",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eCQ39_1-xJQNUW1U5zR2Cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/southern-delicacy-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2313500408588,
+                "longitude": -123.155936636031
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6055 West Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3X2",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "6055 West Blvd",
+                    "Vancouver, BC V6M 3X2",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045593939",
+            "display_phone": "+1 604-559-3939",
+            "distance": 345.78969423197873
+        },
+        {
+            "id": "XU4Dm67c8Niqu_fJ7eu5Jg",
+            "alias": "white-spot-kerrisdale-vancouver",
+            "name": "White Spot Kerrisdale",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lUXWlLpiolYz53Jvg7pBNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/white-spot-kerrisdale-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2376472,
+                "longitude": -123.155693
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "5367 West Boulevard",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3W4",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5367 West Boulevard",
+                    "Vancouver, BC V6M 3W4",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042661288",
+            "display_phone": "+1 604-266-1288",
+            "distance": 365.91355376448405
+        },
+        {
+            "id": "ZKoINodz9kZaLge4ryWSdA",
+            "alias": "loks-chinese-restaurant-vancouver-2",
+            "name": "Lok's Chinese Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eoUL-VQvFMENrp-qdgBa3Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/loks-chinese-restaurant-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2345523,
+                "longitude": -123.1618103
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2436 W 41St Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 2A7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2436 W 41St Ave",
+                    "Vancouver, BC V6M 2A7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042660788",
+            "display_phone": "+1 604-266-0788",
+            "distance": 495.30285223949704
+        },
+        {
+            "id": "e2nB-YRGkoA7AFhL1eqTOg",
+            "alias": "georges-pizza-vancouver",
+            "name": "George's Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3dAsez4JGmaUnmBT6p_z7w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/georges-pizza-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2306166,
+                "longitude": -123.1558749
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "6109 West Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3X3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "6109 West Blvd",
+                    "Vancouver, BC V6M 3X3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042660411",
+            "display_phone": "+1 604-266-0411",
+            "distance": 424.5990123733552
+        },
+        {
+            "id": "LJb9SIq1zt5W8gsuq4_jOQ",
+            "alias": "tim-hortons-vancouver-54",
+            "name": "Tim Hortons",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8JNh0YaB3rz195-blhV4XQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tim-hortons-vancouver-54?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2347749,
+                "longitude": -123.1581524
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2225 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2225 W 41st Avenue",
+                    "Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042648333",
+            "display_phone": "+1 604-264-8333",
+            "distance": 236.6679013393475
+        },
+        {
+            "id": "H3LYy61udCqe1c_owKeRYw",
+            "alias": "new-chongqing-restaurant-vancouver",
+            "name": "New Chongqing Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a830psp4UDe6ClUy3DsEeg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/new-chongqing-restaurant-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2344278,
+                "longitude": -123.1534321
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2044 W 41st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2044 W 41st Ave",
+                    "Vancouver, BC V6M 1Y8",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042669988",
+            "display_phone": "+1 604-266-9988",
+            "distance": 123.33445347211538
+        },
+        {
+            "id": "yA6b273xjMmvDEYw4CRhEA",
+            "alias": "mcdonalds-vancouver-49",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61X_-cHlFBEXzkY274bH-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-vancouver-49?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 49.2347541453583,
+                "longitude": -123.154747584601
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2095 West 41st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2095 West 41st Ave",
+                    "Vancouver, BC V6M 1Y7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16047181055",
+            "display_phone": "+1 604-718-1055",
+            "distance": 43.93601670053988
+        },
+        {
+            "id": "aldkGHVLUz2H7b_m_zqyQw",
+            "alias": "kokoro-tokyo-mazesoba-vancouver-4",
+            "name": "Kokoro Tokyo Mazesoba",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AXujK1FgM_5tQ2mMb-fz-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kokoro-tokyo-mazesoba-vancouver-4?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2347918,
+                "longitude": -123.1593201
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2285 W 41st Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2285 W 41st Avenue",
+                    "Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045598872",
+            "display_phone": "+1 604-559-8872",
+            "distance": 309.49430118870544
+        },
+        {
+            "id": "UZdtd3jjx9e9lI9Z4bMvxQ",
+            "alias": "dq-orangejulius-w-vancouver",
+            "name": "DQ OrangeJulius",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NH3gIsDZBPfxDTL2ltsdpQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dq-orangejulius-w-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2348047,
+                "longitude": -123.15948741
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2293 West 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "W Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2293 West 41st Avenue",
+                    "W Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045688095",
+            "display_phone": "+1 604-568-8095",
+            "distance": 327.3195695701392
+        },
+        {
+            "id": "RUOzhNmllwLI1M0TzXpcTg",
+            "alias": "sushi-time-vancouver-2",
+            "name": "Sushi time",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DQFea97ORo6rODHhiahVCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sushi-time-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 49.2375898,
+                "longitude": -123.1556953
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5351 West Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6E 2M6",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5351 West Blvd",
+                    "Vancouver, BC V6E 2M6",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042647555",
+            "display_phone": "+1 604-264-7555",
+            "distance": 379.9145478872712
+        },
+        {
+            "id": "xBOaMBNqApoMPALx2Q2WPw",
+            "alias": "world-malatang-vancouver",
+            "name": "World Malatang",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tSOQ7d-EcFzJ-ExqUSwHvg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/world-malatang-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2288591648701,
+                "longitude": -123.155003379079
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4320 West  47th Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3V7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "4320 West  47th Avenue",
+                    "Vancouver, BC V6M 3V7",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 616.3217274884856
+        },
+        {
+            "id": "Q9H8aV2954kHzgEchd1Oeg",
+            "alias": "subway-vancouver-127",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2QDapm1PUULzjMZgubvF8g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-vancouver-127?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2352805,
+                "longitude": -123.1556849
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5623 W Boulevard",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3W7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5623 W Boulevard",
+                    "Vancouver, BC V6M 3W7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16046772211",
+            "display_phone": "+1 604-677-2211",
+            "distance": 101.84756143814465
+        },
+        {
+            "id": "j3Y2J-Rs0-UQzbA9V3262Q",
+            "alias": "shota-sushi-and-grill-vancouver",
+            "name": "Shota Sushi and Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zVH1sgh-cWWWZHOVtVvOPw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shota-sushi-and-grill-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2348614,
+                "longitude": -123.1574698
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5688 Yew St",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3Y3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5688 Yew St",
+                    "Vancouver, BC V6M 3Y3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042638068",
+            "display_phone": "+1 604-263-8068",
+            "distance": 189.30147040132792
+        },
+        {
+            "id": "OG0l9EtWO95oMiri35m2Xw",
+            "alias": "chicko-chicken-vancouver",
+            "name": "Chicko Chicken",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6DcArPOBLdF8AW7TflJ4cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicko-chicken-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2314909,
+                "longitude": -123.1559098
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6023 West Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3X2",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "6023 West Blvd",
+                    "Vancouver, BC V6M 3X2",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 319.82076764086867
+        },
+        {
+            "id": "Q7kZ4sFZVhxfn9p6nMLUXw",
+            "alias": "lxy-hunan-fusion-vancouver-2",
+            "name": "Lxy Hunan Fusion",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qRVjDMEbT-LlZvy1NZc36w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lxy-hunan-fusion-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.23447771465635,
+                "longitude": -123.15603124723854
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2106 W 41st Avenue",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z2",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2106 W 41st Avenue",
+                    "Vancouver, BC V6M 1Z2",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045591108",
+            "display_phone": "+1 604-559-1108",
+            "distance": 73.78543714765193
+        },
+        {
+            "id": "ZhZO2V1k7SfOtbwp8fxe4A",
+            "alias": "grandmamas-cafe-vancouver",
+            "name": "Grandmama's Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VptV6ECxNAo4isvqBiw73g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/grandmamas-cafe-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.23504,
+                "longitude": -123.16162
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5687 Balsam Street",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 4B5",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5687 Balsam Street",
+                    "Vancouver, BC V6M 4B5",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042611800",
+            "display_phone": "+1 604-261-1800",
+            "distance": 480.8446157653889
+        },
+        {
+            "id": "LJb9SIq1zt5W8gsuq4_jOQ",
+            "alias": "tim-hortons-vancouver-54",
+            "name": "Tim Hortons",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8JNh0YaB3rz195-blhV4XQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tim-hortons-vancouver-54?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2347749,
+                "longitude": -123.1581524
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2225 W 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2225 W 41st Avenue",
+                    "Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042648333",
+            "display_phone": "+1 604-264-8333",
+            "distance": 236.6679013393475
+        },
+        {
+            "id": "gkx0WIkQ8QECyoNd4dBjcw",
+            "alias": "blackball-dessert-vancouver",
+            "name": "Blackball Dessert",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5bKMdSF2E6VoOCkBw0aqfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blackball-dessert-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2345051,
+                "longitude": -123.1580501
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2184 W 41st Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z1",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2184 W 41st Ave",
+                    "Vancouver, BC V6M 1Z1",
+                    "Canada"
+                ]
+            },
+            "phone": "+17789568198",
+            "display_phone": "+1 778-956-8198",
+            "distance": 224.45174489732776
+        },
+        {
+            "id": "H3LYy61udCqe1c_owKeRYw",
+            "alias": "new-chongqing-restaurant-vancouver",
+            "name": "New Chongqing Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a830psp4UDe6ClUy3DsEeg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/new-chongqing-restaurant-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2344278,
+                "longitude": -123.1534321
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2044 W 41st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y8",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2044 W 41st Ave",
+                    "Vancouver, BC V6M 1Y8",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042669988",
+            "display_phone": "+1 604-266-9988",
+            "distance": 123.33445347211538
+        },
+        {
+            "id": "yA6b273xjMmvDEYw4CRhEA",
+            "alias": "mcdonalds-vancouver-49",
+            "name": "McDonald's",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61X_-cHlFBEXzkY274bH-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcdonalds-vancouver-49?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 46,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 49.2347541453583,
+                "longitude": -123.154747584601
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "2095 West 41st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Y7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2095 West 41st Ave",
+                    "Vancouver, BC V6M 1Y7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16047181055",
+            "display_phone": "+1 604-718-1055",
+            "distance": 43.93601670053988
+        },
+        {
+            "id": "45lAWLIRiGymzqJj5a2fZQ",
+            "alias": "kerrisdale-arena-vancouver",
+            "name": "Kerrisdale Arena",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Awa99pyTGJsFivrlqJ8EWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kerrisdale-arena-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "parks",
+                    "title": "Parks"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 49.2352792214815,
+                "longitude": -123.154694732508
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5670 East Boulevard",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3V2",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5670 East Boulevard",
+                    "Vancouver, BC V6M 3V2",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042578121",
+            "display_phone": "+1 604-257-8121",
+            "distance": 100.40298661806499
+        },
+        {
+            "id": "aldkGHVLUz2H7b_m_zqyQw",
+            "alias": "kokoro-tokyo-mazesoba-vancouver-4",
+            "name": "Kokoro Tokyo Mazesoba",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AXujK1FgM_5tQ2mMb-fz-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kokoro-tokyo-mazesoba-vancouver-4?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2347918,
+                "longitude": -123.1593201
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2285 W 41st Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2285 W 41st Avenue",
+                    "Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045598872",
+            "display_phone": "+1 604-559-8872",
+            "distance": 309.49430118870544
+        },
+        {
+            "id": "UZdtd3jjx9e9lI9Z4bMvxQ",
+            "alias": "dq-orangejulius-w-vancouver",
+            "name": "DQ OrangeJulius",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NH3gIsDZBPfxDTL2ltsdpQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dq-orangejulius-w-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2348047,
+                "longitude": -123.15948741
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2293 West 41st Avenue",
+                "address2": "",
+                "address3": "",
+                "city": "W Vancouver",
+                "zip_code": "V6M 2A3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2293 West 41st Avenue",
+                    "W Vancouver, BC V6M 2A3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045688095",
+            "display_phone": "+1 604-568-8095",
+            "distance": 327.3195695701392
+        },
+        {
+            "id": "RUOzhNmllwLI1M0TzXpcTg",
+            "alias": "sushi-time-vancouver-2",
+            "name": "Sushi time",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DQFea97ORo6rODHhiahVCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sushi-time-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 49.2375898,
+                "longitude": -123.1556953
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5351 West Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6E 2M6",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5351 West Blvd",
+                    "Vancouver, BC V6E 2M6",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042647555",
+            "display_phone": "+1 604-264-7555",
+            "distance": 379.9145478872712
+        },
+        {
+            "id": "xBOaMBNqApoMPALx2Q2WPw",
+            "alias": "world-malatang-vancouver",
+            "name": "World Malatang",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tSOQ7d-EcFzJ-ExqUSwHvg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/world-malatang-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.2288591648701,
+                "longitude": -123.155003379079
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4320 West  47th Avenue",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3V7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "4320 West  47th Avenue",
+                    "Vancouver, BC V6M 3V7",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 616.3217274884856
+        },
+        {
+            "id": "l6JWMC6uC8ggQ3bNJCTjOg",
+            "alias": "quilchena-off-leash-dog-park-vancouver",
+            "name": "Quilchena Off-leash Dog Park",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I6BihgluRjGF-SFjI0Jcrg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/quilchena-off-leash-dog-park-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "parks",
+                    "title": "Parks"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 49.2424532990779,
+                "longitude": -123.1472395733
+            },
+            "transactions": [],
+            "location": {
+                "address1": "33rd and Pine Crescent",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6J",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "33rd and Pine Crescent",
+                    "Vancouver, BC V6J",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1058.6441310079422
+        },
+        {
+            "id": "Q9H8aV2954kHzgEchd1Oeg",
+            "alias": "subway-vancouver-127",
+            "name": "Subway",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2QDapm1PUULzjMZgubvF8g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/subway-vancouver-127?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2352805,
+                "longitude": -123.1556849
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5623 W Boulevard",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3W7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5623 W Boulevard",
+                    "Vancouver, BC V6M 3W7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16046772211",
+            "display_phone": "+1 604-677-2211",
+            "distance": 101.84756143814465
+        },
+        {
+            "id": "j3Y2J-Rs0-UQzbA9V3262Q",
+            "alias": "shota-sushi-and-grill-vancouver",
+            "name": "Shota Sushi and Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zVH1sgh-cWWWZHOVtVvOPw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shota-sushi-and-grill-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2348614,
+                "longitude": -123.1574698
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5688 Yew St",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 3Y3",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5688 Yew St",
+                    "Vancouver, BC V6M 3Y3",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042638068",
+            "display_phone": "+1 604-263-8068",
+            "distance": 189.30147040132792
+        },
+        {
+            "id": "OG0l9EtWO95oMiri35m2Xw",
+            "alias": "chicko-chicken-vancouver",
+            "name": "Chicko Chicken",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6DcArPOBLdF8AW7TflJ4cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicko-chicken-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2314909,
+                "longitude": -123.1559098
+            },
+            "transactions": [],
+            "location": {
+                "address1": "6023 West Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Vancouver",
+                "zip_code": "V6M 3X2",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "6023 West Blvd",
+                    "Vancouver, BC V6M 3X2",
+                    "Canada"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 319.82076764086867
+        },
+        {
+            "id": "Q7kZ4sFZVhxfn9p6nMLUXw",
+            "alias": "lxy-hunan-fusion-vancouver-2",
+            "name": "Lxy Hunan Fusion",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qRVjDMEbT-LlZvy1NZc36w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lxy-hunan-fusion-vancouver-2?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 49.23447771465635,
+                "longitude": -123.15603124723854
+            },
+            "transactions": [],
+            "location": {
+                "address1": "2106 W 41st Avenue",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 1Z2",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "2106 W 41st Avenue",
+                    "Vancouver, BC V6M 1Z2",
+                    "Canada"
+                ]
+            },
+            "phone": "+16045591108",
+            "display_phone": "+1 604-559-1108",
+            "distance": 73.78543714765193
+        },
+        {
+            "id": "orF9djlAN3a-1a9vNpI9Rw",
+            "alias": "prince-of-wales-park-vancouver",
+            "name": "Prince of Wales Park",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/prince-of-wales-park-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "parks",
+                    "title": "Parks"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.2439659,
+                "longitude": -123.1587144
+            },
+            "transactions": [],
+            "location": {
+                "address1": "4780 Haggart Street",
+                "address2": "",
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6L 2H7",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "4780 Haggart Street",
+                    "Vancouver, BC V6L 2H7",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042578400",
+            "display_phone": "+1 604-257-8400",
+            "distance": 1022.1557448730796
+        },
+        {
+            "id": "ZhZO2V1k7SfOtbwp8fxe4A",
+            "alias": "grandmamas-cafe-vancouver",
+            "name": "Grandmama's Cafe",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VptV6ECxNAo4isvqBiw73g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/grandmamas-cafe-vancouver?adjust_creative=FwSFJoqL-uGsBN7rrhJsoQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FwSFJoqL-uGsBN7rrhJsoQ",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 49.23504,
+                "longitude": -123.16162
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5687 Balsam Street",
+                "address2": null,
+                "address3": "",
+                "city": "Vancouver",
+                "zip_code": "V6M 4B5",
+                "country": "CA",
+                "state": "BC",
+                "display_address": [
+                    "5687 Balsam Street",
+                    "Vancouver, BC V6M 4B5",
+                    "Canada"
+                ]
+            },
+            "phone": "+16042611800",
+            "display_phone": "+1 604-261-1800",
+            "distance": 480.8446157653889
+        }
+    ],
+    "total": 66,
+    "region": {
+        "center": {
+            "longitude": -123.15502166748047,
+            "latitude": 49.23440187260925
+        }
+    }
+}

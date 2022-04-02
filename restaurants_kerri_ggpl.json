@@ -1,0 +1,3176 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23480070000001,
+                    "lng": -123.1547578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2360600802915,
+                        "lng": -123.1533875197085
+                    },
+                    "southwest": {
+                        "lat": 49.2333621197085,
+                        "lng": -123.1560854802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "McDonald's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3648,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107526254268192313475\">Xin Chen</a>"
+                    ],
+                    "photo_reference": "Aap_uEBapedTGiPjVSiK2tD6xcqHHgor6t-olUKsmCCK3-CYQPMDLPTsjojakB86Vh0nwV8q8v5pig-q8PjL7SV7O5Dxw6daCEfOF3YJjs0257bIrdPbsMoaK6YesJjd5lC5dhZv73FqrqNK3U8Cn5MupVK-RwpLhZO5WmrSXXzahTQK99cu",
+                    "width": 2736
+                }
+            ],
+            "place_id": "ChIJd7pHyHtzhlQR9d68GQ7l70A",
+            "plus_code": {
+                "compound_code": "6RMW+W3 Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+W3"
+            },
+            "price_level": 1,
+            "rating": 3.2,
+            "reference": "ChIJd7pHyHtzhlQR9d68GQ7l70A",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1830,
+            "vicinity": "2095 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23443349999999,
+                    "lng": -123.1543565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23582663029149,
+                        "lng": -123.1530609697085
+                    },
+                    "southwest": {
+                        "lat": 49.2331286697085,
+                        "lng": -123.1557589302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pho Tan Vietnamese Restaurant Beef Noodle Soup & Bubble Tea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111086188863917339551\">chris leow</a>"
+                    ],
+                    "photo_reference": "Aap_uEA8cF1m68imUV7jG5c_OJL9Gk77M5ai-8MC5jpDFIB84MoaRcKxYaupmXENNYcEtuZDgEPBDFQgtCZKl1uedZCYEEUHalXBziLKdWLI92Z3O1xNwEqz3iy-Rdlpm-L2LU8Gir3bmTn16U61TyrqL_AIN916vnG8dEP5WBUuLpo-rjo5",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJFWYUx3tzhlQRP8YRGbxlfPQ",
+            "plus_code": {
+                "compound_code": "6RMW+Q7 Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+Q7"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJFWYUx3tzhlQRP8YRGbxlfPQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 550,
+            "vicinity": "2076 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2344827,
+                    "lng": -123.1559336
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2358644302915,
+                        "lng": -123.1544835697085
+                    },
+                    "southwest": {
+                        "lat": 49.23316646970851,
+                        "lng": -123.1571815302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Burrata Pizzeria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104379805298467618058\">Ryan Chen-Wing</a>"
+                    ],
+                    "photo_reference": "Aap_uED6-EeStS-jJGPtLFhIBYjw6-4BRKiR72eEDS-Jr5QlLkRUcnC6LcodmVObpZDxPrlYdKY6BSBEjdNYaGZGuGj9k8f_mF3BTxZk97BJmAS3CrSkP6-Qf-w1xNealmUxlUrXrksdrGWVsC1STCFe0ik6cvWWpj1iSpZOWX_HipfOc47r",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJiTSF0ytzhlQRj1WHnJFCP0U",
+            "plus_code": {
+                "compound_code": "6RMV+QJ Vancouver, BC, Canada",
+                "global_code": "84XR6RMV+QJ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJiTSF0ytzhlQRj1WHnJFCP0U",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 196,
+            "vicinity": "2104 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2344445,
+                    "lng": -123.1560659
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2358457802915,
+                        "lng": -123.1547880697085
+                    },
+                    "southwest": {
+                        "lat": 49.2331478197085,
+                        "lng": -123.1574860302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "LXY Hunan Fusion",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117030493095744581000\">LXY Hunan Fusion</a>"
+                    ],
+                    "photo_reference": "Aap_uECpotyQCxiDjKGx6qobKJTw7Tuqry2aduQ7fOk0YVV7_gH5-fGF3sNCO0ReuJzyODC4MIv7fa6qihyV7TeR6l-I0l-iisaitfBD5Whqc3NqseZw9ZKp90MQn8frZmp-nKD2hcRT0p2wTqwT7j46xeX41fIwX3hb-_1IZ1raPbBkb4Er",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJJUVmJ-9zhlQRNBnIyaVlqSY",
+            "plus_code": {
+                "compound_code": "6RMV+QH Vancouver, BC, Canada",
+                "global_code": "84XR6RMV+QH"
+            },
+            "rating": 4.2,
+            "reference": "ChIJJUVmJ-9zhlQRNBnIyaVlqSY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41,
+            "vicinity": "2106 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23447789999999,
+                    "lng": -123.1562082
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23583043029149,
+                        "lng": -123.1548920697085
+                    },
+                    "southwest": {
+                        "lat": 49.2331324697085,
+                        "lng": -123.1575900302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Baoguette Vietnamese Bistro",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3492,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110283806464517525682\">Byung Don Jang</a>"
+                    ],
+                    "photo_reference": "Aap_uEAo8wPuOGxlnFDQ9bYmMgKPqpBNJcG12fl3N_LjEN1ArP9E86a99WpCJWUhBrhhw9hYSsN-dStFoTwG-2io4M8L4RGUP4sn-fse-4Hi8DxbbwPCX2JwmYm3P4okkk18i0BzzyyF-PrMaxPuGNTYIj8gddsjrndOXvDCBTninz4co2r5",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJseCArntzhlQR7UfHBZk26HA",
+            "plus_code": {
+                "compound_code": "6RMV+QG Vancouver, BC, Canada",
+                "global_code": "84XR6RMV+QG"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJseCArntzhlQR7UfHBZk26HA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 448,
+            "vicinity": "2114 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23424499999999,
+                    "lng": -123.15406
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23572918029149,
+                        "lng": -123.1527336197085
+                    },
+                    "southwest": {
+                        "lat": 49.2330312197085,
+                        "lng": -123.1554315802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Nando's PERi-PERi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108880815943817409097\">Lana Poitras</a>"
+                    ],
+                    "photo_reference": "Aap_uEB97apuuy_ByJ_kdMONQXS4JV_IM0TxbPfzHdlOXPuIwH22DLy-a5HZEAAKb8DIqnvafkTxS65Bschia5-SuPI8Onf0Hn88Fy9xxq3vXYv7fxczMD8tlIVUD8xWcK-VMa0E4lXrF_w9CsAcWGeb1RZHUQQqQ7NYZ28uhfO1qoOLoTBU",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJt-BbwXtzhlQRvEe2Y-wfSi4",
+            "plus_code": {
+                "compound_code": "6RMW+M9 Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+M9"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJt-BbwXtzhlQRvEe2Y-wfSi4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 790,
+            "vicinity": "2064 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.235203,
+                    "lng": -123.1557371
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2364767302915,
+                        "lng": -123.1544010697085
+                    },
+                    "southwest": {
+                        "lat": 49.2337787697085,
+                        "lng": -123.1570990302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Subway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112857391363415000868\">Nara Yang</a>"
+                    ],
+                    "photo_reference": "Aap_uEDMjKjg214R1rEkCrI_ZnaW-5Au7Zml4wUXXneRYAuKs7aLoouczmSDDwlwkULWik23Fv7EeeyykVrsmkIFG6_wJopJIkNTG6F1SGFz0k-3ByuXp4E7rI7IF0mX6ZnG2p0wELNfywlevzNyJdptdr0RxGypn02glOuv95qlqTM0eR8H",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ2xRCNnpzhlQRq-dDnuYyA_M",
+            "plus_code": {
+                "compound_code": "6RPV+3P Vancouver, BC, Canada",
+                "global_code": "84XR6RPV+3P"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJ2xRCNnpzhlQRq-dDnuYyA_M",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 105,
+            "vicinity": "5623 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2347528,
+                    "lng": -123.1564082
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2360352302915,
+                        "lng": -123.1550578697085
+                    },
+                    "southwest": {
+                        "lat": 49.2333372697085,
+                        "lng": -123.1577558302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ZUBU Ramen - Kerrisdale",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114783835944274253659\">ZUBU Ramen - Kerrisdale</a>"
+                    ],
+                    "photo_reference": "Aap_uEDMBo4HDyQC658_TpWQU-uipytDXOILpgw96BH1wpsEYWN8FXY9a7vNlmwvKDx7VmbHVNRntYnWaoxtdbPGYE74wKJU8q1L7fyenmH8Is-0VxQXnTRDasrVj4pyF8ozkfQc-xvtsS0BywfSRGOgOJ1daBqTTAuHWnyDyzLYF9JE0zLo",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJxxqe3XBzhlQRSEJSqRMoewE",
+            "plus_code": {
+                "compound_code": "6RMV+WC Vancouver, BC, Canada",
+                "global_code": "84XR6RMV+WC"
+            },
+            "rating": 3.9,
+            "reference": "ChIJxxqe3XBzhlQRSEJSqRMoewE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 183,
+            "vicinity": "2129 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2338978,
+                    "lng": -123.1540943
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2352467802915,
+                        "lng": -123.1527453197085
+                    },
+                    "southwest": {
+                        "lat": 49.23254881970851,
+                        "lng": -123.1554432802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sushi Bar Ajisai",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108401486181860744093\">\uc720\ubcd1\ud638</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLaaQP3yUuqO0ulfkMe-aZeShOUp98SzZmLBD8OU8WjZJaO9n1KLM6p2FZvdxfVUywVFHHbnKksP5IVWDDJoWln8J3RnwLhPBIDZYu-NQhtiimDYTvZKzWaNkPRgdex0Gj9dCFeKFE69v2Em8vuMa6MjGTnXLCysjHpaQfPbuXVML7",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPxxSl3tzhlQRPUzK9vPQokk",
+            "plus_code": {
+                "compound_code": "6RMW+H9 Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+H9"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJPxxSl3tzhlQRPUzK9vPQokk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 806,
+            "vicinity": "2081 West 42nd Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23471019999999,
+                    "lng": -123.1565069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23600143029149,
+                        "lng": -123.1551466197085
+                    },
+                    "southwest": {
+                        "lat": 49.2333034697085,
+                        "lng": -123.1578445802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Nana's Green Tea",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115921220974240256070\">xxdjkid the yt gamer</a>"
+                    ],
+                    "photo_reference": "Aap_uECeLGIL2xyDOKofmHvPZJM20XB2BDNxvMd7-cJGYg4h-qUCQ8GtlRv1LKfb_ZOQKW0H9ClZSTHnYCARjxhlGxmlw9uGcefDOtPrty3amDLwTwaQeXJBact8N_QHbJGCBbKzzfR0_VOcJE0wLKw3dFmiIOrUUaS5nWYnMl5UXgq24CNF",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJc4flUnpzhlQR8POkv22_Qac",
+            "plus_code": {
+                "compound_code": "6RMV+V9 Vancouver, BC, Canada",
+                "global_code": "84XR6RMV+V9"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJc4flUnpzhlQR8POkv22_Qac",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 743,
+            "vicinity": "2135 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2337388,
+                    "lng": -123.154034
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23500713029149,
+                        "lng": -123.1526889197085
+                    },
+                    "southwest": {
+                        "lat": 49.23230916970849,
+                        "lng": -123.1553868802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Ajisai 2 Go",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2906,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108088235634107441440\">Ajisai 2 Go</a>"
+                    ],
+                    "photo_reference": "Aap_uEDYA-GPmXrn3QefHnYsQy8orTxIP_VkBi9WIUsnK3kETsJeWsdeKZxfsRkKQokOJe0misvg2FN2TT6wOz8VsIWxu7LcRkMfvJ6pahyPzFUD_ujU4xtYdkrhXAC8AucDVhQAx5uWbCig5FqHB01ptxqEOXTt2zbI06RtGpTs7rS3PA4L",
+                    "width": 3875
+                }
+            ],
+            "place_id": "ChIJTZdlIsZzhlQR6bjtsau2HZM",
+            "plus_code": {
+                "compound_code": "6RMW+F9 Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+F9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJTZdlIsZzhlQR6bjtsau2HZM",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "2087 West 42nd Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2347083,
+                    "lng": -123.1535972
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2359985302915,
+                        "lng": -123.1522523197085
+                    },
+                    "southwest": {
+                        "lat": 49.2333005697085,
+                        "lng": -123.1549502802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Adonia Tea House",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1318,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101788671491636504832\">Adonia Tea House</a>"
+                    ],
+                    "photo_reference": "Aap_uEC23cHBlid5fSTRj2hZroExsxDEg0svhWw6c61mrWVF8rLV6BxqKbi6QX6l5xw-OD4RmhAVVAnE-_FGpm5ymb2cZLNG0pixsgXCPzqrg1TXBn6AsvGDMP6cctwjSO_SDrQVCo_hKXP6tg-a9MCmeiRC7yiZzDuPRNDtvt-pBNuVSV7p",
+                    "width": 988
+                }
+            ],
+            "place_id": "ChIJO_jHxHtzhlQRtq2tHuukY5Y",
+            "plus_code": {
+                "compound_code": "6RMW+VH Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+VH"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJO_jHxHtzhlQRtq2tHuukY5Y",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 156,
+            "vicinity": "2057 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2346874,
+                    "lng": -123.1535727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2359876802915,
+                        "lng": -123.1522271197085
+                    },
+                    "southwest": {
+                        "lat": 49.2332897197085,
+                        "lng": -123.1549250802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kerrisdale Nakamura Japanese Cuisine",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103267618248310082407\">Sidney Talaro</a>"
+                    ],
+                    "photo_reference": "Aap_uEABCenMRj_yolIBgppZ708LgYQAieZcAXA4f26kDaFWPFRnzQluEyWsKLGzsGW1PLJBfNDhteJV_9wtm6XYw4084jM3O0qhT31kpVDDPmdkB601vJdhT3rlhSIzFkaYP6lgEbRhj7pYXxJFa285Dd35td4L_DbuwYh51kgKVkBahpaq",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJO-JN23tzhlQRMFDujy_MORg",
+            "plus_code": {
+                "compound_code": "6RMW+VH Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+VH"
+            },
+            "rating": 3.9,
+            "reference": "ChIJO-JN23tzhlQRMFDujy_MORg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "2055 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23468769999999,
+                    "lng": -123.1535186
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23598713029149,
+                        "lng": -123.1521720697085
+                    },
+                    "southwest": {
+                        "lat": 49.23328916970849,
+                        "lng": -123.1548700302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Fish Caf\u00e9",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3373,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102340562769330179095\">Terry Hu</a>"
+                    ],
+                    "photo_reference": "Aap_uEDoSKrCJnaheIONHXLwEG8SqhnWavvw9Sg4McagMknk5RXIqeemVJ8veX_KZEAADGAOicViBKQELpnhV0TnI0EU7s9kpFGcj1AIIiDWjuCSsPSUyrCvRwf8AjMucaRPVKAf2oed3X6OU9zU4I0fPijWXODI8apTbclKxVkyR4fhw9yr",
+                    "width": 4501
+                }
+            ],
+            "place_id": "ChIJgT1F23tzhlQRXBrTML1ykpE",
+            "plus_code": {
+                "compound_code": "6RMW+VH Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+VH"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJgT1F23tzhlQRXBrTML1ykpE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 202,
+            "vicinity": "2053 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.234785,
+                    "lng": -123.15673
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23604108029151,
+                        "lng": -123.1553845697085
+                    },
+                    "southwest": {
+                        "lat": 49.23334311970851,
+                        "lng": -123.1580825302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Baan Wasana Thai Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107771798833430967596\">Elton Chung</a>"
+                    ],
+                    "photo_reference": "Aap_uED4fSTpinbJ96tFKrmyTaxNbeVK3amnilzUjAimKbgIXlXXa-kh0z6CvGjscnOA3iZo9U-v_Ac3yFd2Ffz1yz04J7O_cFOGVCCH_qOEF8itdIGc0-7t6jj3MhFGQVWy8X4ojOT4VpX2LmG12x5stGt4krBZV3urARXIijnhA1B0buA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJq1VMU3pzhlQREAe72lFhbAc",
+            "plus_code": {
+                "compound_code": "6RMV+W8 Vancouver, BC, Canada",
+                "global_code": "84XR6RMV+W8"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJq1VMU3pzhlQREAe72lFhbAc",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 124,
+            "vicinity": "2143 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2343419,
+                    "lng": -123.1533765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2357675302915,
+                        "lng": -123.1520237197085
+                    },
+                    "southwest": {
+                        "lat": 49.2330695697085,
+                        "lng": -123.1547216802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Golden Ocean Seafood Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112829149555962582513\">Michael Au</a>"
+                    ],
+                    "photo_reference": "Aap_uEA5qs6IExxTWP62rQ13pof28BTzzNWDQT9LlowVern3TRIjr4RQNe6FKwI8c5iF2FdpMHF3dUMyU772QIANUoUeHxuZ48mw6jxt8cXix5P_HL1VJSz1WvH_Ghcmhs80eY1VBl163l9ljQPPAd5z1fUUAtuNWvCHN_Obz0Pd6JXzp--f",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJtyIsw3tzhlQRQC-xZW1-h3w",
+            "plus_code": {
+                "compound_code": "6RMW+PJ Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+PJ"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJtyIsw3tzhlQRQC-xZW1-h3w",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 670,
+            "vicinity": "2046 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2354413,
+                    "lng": -123.1560946
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2368555302915,
+                        "lng": -123.1545740697085
+                    },
+                    "southwest": {
+                        "lat": 49.2341575697085,
+                        "lng": -123.1572720302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Secret Garden Tea Company",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112724056294813722825\">Local Buzz</a>"
+                    ],
+                    "photo_reference": "Aap_uECEjx6HLmQ1UqXMyHbSF8Ke3YramQ78wc0Cq30dIc5SZs9Gz4JWghaEIduf_q92oS77M-Ja7rmswC1f3soSn7W4JYr7GD0s3wDbxYuIELd0N51m91VmUiVGj4o-0MuoAJB3CkcXzmTF9ZyC6uQkg-rxyI1udMGxaU5I8GH8IeQl9WYy",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJy4OmO3pzhlQRPK4KZnh98XM",
+            "plus_code": {
+                "compound_code": "6RPV+5H Vancouver, BC, Canada",
+                "global_code": "84XR6RPV+5H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJy4OmO3pzhlQRPK4KZnh98XM",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 501,
+            "vicinity": "2138 West 40th Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2343994,
+                    "lng": -123.1533103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2357956302915,
+                        "lng": -123.1519589697085
+                    },
+                    "southwest": {
+                        "lat": 49.2330976697085,
+                        "lng": -123.1546569302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "New Chong Qing Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105228349541098182324\">Godwin C</a>"
+                    ],
+                    "photo_reference": "Aap_uECqRO0qmQmOX6TiqHZn8q3V9HVYtqgRQOpAfQFoAUcYNPhSSA3SZ32zokQenQJutAeNxiYK4Hx3dyazUxIOoNmRDAJaDc34jfAZv_uiNdC4Uq4FQnxL7m8PZ1-ajZkG_cK3Z1fR0K9adoPyGxgnYamOJ-tE6fyIjAV5IhAzqsoskUxx",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJi4-5wntzhlQRaa0Kw6K54Go",
+            "plus_code": {
+                "compound_code": "6RMW+QM Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+QM"
+            },
+            "rating": 3.2,
+            "reference": "ChIJi4-5wntzhlQRaa0Kw6K54Go",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 85,
+            "vicinity": "2044 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2332003,
+                    "lng": -123.155448
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2345534302915,
+                        "lng": -123.1541991697085
+                    },
+                    "southwest": {
+                        "lat": 49.2318554697085,
+                        "lng": -123.1568971302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pachamami Foodtruck",
+            "photos": [
+                {
+                    "height": 2674,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103647511128192798789\">Pachamami Foodtruck</a>"
+                    ],
+                    "photo_reference": "Aap_uECDxMm_aO2ySm-GhGmgWFi6uB0yrUc7YlrNHxqj94PpaQR8vZbcz0Nm771GwJS1NAeFcZLr5BSqUZ1CEIw8DbEq5hz18CPWTKsvpHTdRlZlKng7M1wV6IsQh_PzcR3e30XH76rDF9VqHJVFH9acur3Jp61GyKgY-ddEbBTsLnobfCSS",
+                    "width": 2674
+                }
+            ],
+            "place_id": "ChIJ0cPqglRzhlQRip_g-C6fAyw",
+            "plus_code": {
+                "compound_code": "6RMV+7R Vancouver, BC, Canada",
+                "global_code": "84XR6RMV+7R"
+            },
+            "rating": 5,
+            "reference": "ChIJ0cPqglRzhlQRip_g-C6fAyw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "5900 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23433619999999,
+                    "lng": -123.1529723
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23576033029149,
+                        "lng": -123.1516145697085
+                    },
+                    "southwest": {
+                        "lat": 49.23306236970849,
+                        "lng": -123.1543125302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Chef Hung Taiwanese Beef Noodle",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107771798833430967596\">Elton Chung</a>"
+                    ],
+                    "photo_reference": "Aap_uEDQJ1FJmclX70tXxjrVa93H7LilnrJCqQw7cFpY1Wba0Vk1tgo4stPyKMLOZopH2W32f5ewaZPivqAGm3zat_71rNDmq649NsHdBXzEOCWHy81y8A2GWME7UQg9GLNju08LPSEEQjxyMR6ECQK8f8bQbyWrlmh-ZwSkp2Oeyou9YA8",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJA5qE53tzhlQR6P0QCnBWG0c",
+            "plus_code": {
+                "compound_code": "6RMW+PR Vancouver, BC, Canada",
+                "global_code": "84XR6RMW+PR"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJA5qE53tzhlQR6P0QCnBWG0c",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 288,
+            "vicinity": "2028 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23482569999999,
+                    "lng": -123.1572636
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23606583029149,
+                        "lng": -123.1559187697085
+                    },
+                    "southwest": {
+                        "lat": 49.23336786970849,
+                        "lng": -123.1586167302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Jess' Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115921220974240256070\">xxdjkid the yt gamer</a>"
+                    ],
+                    "photo_reference": "Aap_uEAXaA65hpV1mmvyJLPp95GBnlfxIwcdgTlbvk_HA-4wi_qbYVmfbnh6iRAlrUk4MoFIK2JOokoT9P0QyWnUns7tXxcu3WimnwxDUX0Q3kVCY4ZPjICw1IDJCECFEEmZT2_sx0_h6yu9Wv1HTiI5h9osF_7to_sto-j5hCfZEogvdHh7",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJgbjAfkZzhlQRmj1ew3Wh0oQ",
+            "plus_code": {
+                "compound_code": "6RMV+W3 Vancouver, BC, Canada",
+                "global_code": "84XR6RMV+W3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJgbjAfkZzhlQRmj1ew3Wh0oQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 142,
+            "vicinity": "2179 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2360333,
+                    "lng": -123.1557741
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23738163029149,
+                        "lng": -123.1543067697085
+                    },
+                    "southwest": {
+                        "lat": 49.2346836697085,
+                        "lng": -123.1570047302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Hanppy to go vancouver",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1439,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106770483971910238154\">Sandra Chan</a>"
+                    ],
+                    "photo_reference": "Aap_uEDbLNjwepLtMyRU7sClGRtsSBx1hI8zoyf6rvhKVbwOrHXSTr-trlyzXT8vM4rIYdPaZZhEY5jIxezkqzcQ_KrtQSfUILpJ26tRCAa4bAFJ3v8z1BfaEL27iQyZYzBEjTCkWPZUk3zpxZKyzcaGGeww_ZmBEI1of758MwsoSM9JtUMs",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJS1LKSvNzhlQRzVLfin-6wVk",
+            "plus_code": {
+                "compound_code": "6RPV+CM Vancouver, BC, Canada",
+                "global_code": "84XR6RPV+CM"
+            },
+            "rating": 5,
+            "reference": "ChIJS1LKSvNzhlQRzVLfin-6wVk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "5555 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.235,
+                    "lng": -123.1574999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2363520802915,
+                        "lng": -123.1562712697085
+                    },
+                    "southwest": {
+                        "lat": 49.2336541197085,
+                        "lng": -123.1589692302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Shota Sushi & Grill",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117573624172786654123\">Shota Sushi &amp; Grill</a>"
+                    ],
+                    "photo_reference": "Aap_uED-fqihSCfXnN7fl0gl4Y1Z-CAgxge_db7TdcjgOWHrRp61wd9zXYDxLbZ11Xsloo9v4daAZ0jpT19Qd7KsVvl871fe6teJWxkdXBMPwWQC7c2JPWDJIS2x7eM2MCSVqVBRU5D_Krtk4IGGb7v0Y0YS3dnhpqZaWI2UVVW-gX_ff9mv",
+                    "width": 3872
+                }
+            ],
+            "place_id": "ChIJ18fR_npzhlQRRQP4e5iEog0",
+            "plus_code": {
+                "compound_code": "6RPV+22 Vancouver, BC, Canada",
+                "global_code": "84XR6RPV+22"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJ18fR_npzhlQRRQP4e5iEog0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 175,
+            "vicinity": "5688 Yew Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2360313,
+                    "lng": -123.1559882
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2373737302915,
+                        "lng": -123.1544138697085
+                    },
+                    "southwest": {
+                        "lat": 49.2346757697085,
+                        "lng": -123.1571118302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "China Lan Lanzhou Beef Noodles",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112724056294813722825\">Local Buzz</a>"
+                    ],
+                    "photo_reference": "Aap_uECAsbgSV8alGX2_9pFIrTdnlwUXh8xAUB3AsQ0pkMdE0k_fMqz-fUjuulTi7DD6u_gRZWFgDQf6X1Oh-xkJV1CGle4aXudPGfkeq04drwX3E9DkWWB5NNIGduGYokcbe6BXLfIE18RniulPMDlgGedCmgKcD5qSlPR_5xxUdHF84u67",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ9xaGO3pzhlQR2tcya4OjMuU",
+            "plus_code": {
+                "compound_code": "6RPV+CJ Vancouver, BC, Canada",
+                "global_code": "84XR6RPV+CJ"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ9xaGO3pzhlQR2tcya4OjMuU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 414,
+            "vicinity": "5555 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.234509,
+                    "lng": -123.158022
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2358579802915,
+                        "lng": -123.1566730197085
+                    },
+                    "southwest": {
+                        "lat": 49.23316001970851,
+                        "lng": -123.1593709802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ASA Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117336166350415582196\">Nasa Rouf</a>"
+                    ],
+                    "photo_reference": "Aap_uEDEtmKPdDfg56FtSr4Ah5cBw2cyK8tqUJx0wV4WiR1dNO_dzue1_3ZL5tbwgAsCpAMKRbxVUeOwckYsJBxSZnJ8W9iHVEpumsR4jPC_uwIG1Pui2NYtwF17j0yTouWdcUq10mOYZGvkQ_iOSZOmX8yGKn2Z68IJmXBLNJNMfSSLQ2nz",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJR7kV_HpzhlQRAkJoPqYo_PM",
+            "plus_code": {
+                "compound_code": "6RMR+RQ Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+RQ"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJR7kV_HpzhlQRAkJoPqYo_PM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 690,
+            "vicinity": "2178 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23490289999999,
+                    "lng": -123.158078
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2361674802915,
+                        "lng": -123.1566471697085
+                    },
+                    "southwest": {
+                        "lat": 49.2334695197085,
+                        "lng": -123.1593451302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Tim Hortons",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112965888081354397533\">KhaoPiyoJiyo</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLVemjF-FP6bkswn3p5sZNFf-sa3AVKaecrztJ4atFoa3dW94aMZv_4pzmMRLk6fFPXt_krjMBMU4mLvlO2Dmcwsq0aLz3GuZSTlkMJAYThHQm4ty7ALhkneIByR1G2bTluqjq6sK6YPGQweEJVCqCPypTA2XA12nKQ7YpFyK_fxwa",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ50dZ-npzhlQRI9rIXG_vWII",
+            "plus_code": {
+                "compound_code": "6RMR+XQ Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+XQ"
+            },
+            "price_level": 1,
+            "rating": 3.5,
+            "reference": "ChIJ50dZ-npzhlQRI9rIXG_vWII",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 381,
+            "vicinity": "2225 West 41st Avenue W, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2322068,
+                    "lng": -123.1558017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23351633029149,
+                        "lng": -123.1543911197085
+                    },
+                    "southwest": {
+                        "lat": 49.23081836970849,
+                        "lng": -123.1570890802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Me + Crepe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115816466981703455259\">Shawn Hsueh</a>"
+                    ],
+                    "photo_reference": "Aap_uECvDNZxvQEoAke9atgq8FdUtQ9PrVDexk8ZHK5hNKnQ_NgozIW61btdZkrRPs9yDhIKq2eWOeaEugojo5OS5xWkWqvpMgsS1IzGyjLIrDcPDzb7esc8krePMAqFk6EpGHWUido3sLuQMNzhojQFVHpo6GpjElRGgW3OIVbLUMJL1pPT",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJf95m4I5zhlQR7q12vsOV5Gg",
+            "plus_code": {
+                "compound_code": "6RJV+VM Vancouver, BC, Canada",
+                "global_code": "84XR6RJV+VM"
+            },
+            "rating": 3.7,
+            "reference": "ChIJf95m4I5zhlQR7q12vsOV5Gg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61,
+            "vicinity": "5971 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.232201,
+                    "lng": -123.155835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2335125302915,
+                        "lng": -123.1544093197085
+                    },
+                    "southwest": {
+                        "lat": 49.2308145697085,
+                        "lng": -123.1571072802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "BBT Caf\u00e9",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109550543196226105730\">BBT Caf\u00e9</a>"
+                    ],
+                    "photo_reference": "Aap_uEAcFD4luALmBj9BiLWFjC-8BzyFGejGsW3pOxJasOhca2HJq6ilXY880b-6xGpC9Fwu8DBh7EWP2J08vlzQ64-XeMdyVDrMkAj5wMsJb_t1VY46V0V-oRevcEs57nBZLsHIfQ6rBKizxCl4BTcEof1ncKVqUyAGRvTSbD2pE0PrkFtl",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJg-1zYntzhlQROHIKA_RrtG0",
+            "plus_code": {
+                "compound_code": "6RJV+VM Vancouver, BC, Canada",
+                "global_code": "84XR6RJV+VM"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJg-1zYntzhlQROHIKA_RrtG0",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 247,
+            "vicinity": "5979 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2348048,
+                    "lng": -123.1587418
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2360656802915,
+                        "lng": -123.1573834197085
+                    },
+                    "southwest": {
+                        "lat": 49.2333677197085,
+                        "lng": -123.1600813802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sip Bowl",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109030722327811224338\">Gloria Ching</a>"
+                    ],
+                    "photo_reference": "Aap_uEA3GqUYfg4707t1SSghZToCZLwn2QMUXAJFQwwwobRbuuhG8fksg5ps4k68IJcby7hFWkmgGB06v2cXEAYhs0LRiPxzMnm1yt2459tXE-5Tne0MRvkhVJg1KjYmrrIrB_Q3f4870KZqjOu5e5C4wEqI-C-AsPo6n_KZOFNgoli_i9U",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJtWPIRQRzhlQRm5oNzANnLJA",
+            "plus_code": {
+                "compound_code": "6RMR+WG Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+WG"
+            },
+            "rating": 3.8,
+            "reference": "ChIJtWPIRQRzhlQRm5oNzANnLJA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 259,
+            "vicinity": "2255 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23478040000001,
+                    "lng": -123.1587608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2360536802915,
+                        "lng": -123.1573921697085
+                    },
+                    "southwest": {
+                        "lat": 49.23335571970851,
+                        "lng": -123.1600901302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Orange Corner",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115578855334968844166\">Orange Corner</a>"
+                    ],
+                    "photo_reference": "Aap_uEC-sae1qDCk0lSg7s0cLWgBZP-L3B75rKFIO13uXHuSOdATuPcPEY7gUpLhmxOfK1GVTwHN9vVAJGIsqa99KaRXqDC5xIBpuugDuiLf6bt9wBlgS_drCaMvjmX2cEsVoPmRIR5uK48XhUwgm5Ur4Hl-fXg6Coxl_faz1wpPZZ03-YaK",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJLVUT5XpzhlQR1-whMReNvH4",
+            "plus_code": {
+                "compound_code": "6RMR+WF Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+WF"
+            },
+            "price_level": 1,
+            "rating": 3.7,
+            "reference": "ChIJLVUT5XpzhlQR1-whMReNvH4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 172,
+            "vicinity": "2257 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2348133,
+                    "lng": -123.1591304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2360748802915,
+                        "lng": -123.1577843697085
+                    },
+                    "southwest": {
+                        "lat": 49.2333769197085,
+                        "lng": -123.1604823302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sofra Mediterranean Kitchen",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114288042566495812069\">Kevin T</a>"
+                    ],
+                    "photo_reference": "Aap_uEDnoR-J7Dc-OVCPxZ4kVIaHu-whlTZFGIVlBeLW0dsXuTL-Gguu6a3JyRfXTMyvH7Or6XRTV9q5OtErYQaTIT7EHei8fgfifLUsDfcWrzMf5lydiEL6l-rMcVA-lJExnysCEAHG76G5643vz6qE0-EQexEFeWZqaUrlYJ5Nge1AuvXw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJS4fi7npzhlQRW2nOPuxpDwI",
+            "plus_code": {
+                "compound_code": "6RMR+W8 Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+W8"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJS4fi7npzhlQRW2nOPuxpDwI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 476,
+            "vicinity": "2277 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23480070000001,
+                    "lng": -123.1591612
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23606903029151,
+                        "lng": -123.1578171197085
+                    },
+                    "southwest": {
+                        "lat": 49.23337106970851,
+                        "lng": -123.1605150802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "41 Noodle & Rice Pot House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 533,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106335003089394359373\">41 Noodle &amp; Rice Pot House</a>"
+                    ],
+                    "photo_reference": "Aap_uEBpvXFcpqTfFMCpTbjE4nLEdn3Y1QtH_9DRJub9EHD5VonYIR6JhFFmvp1WpdAH-W4-3h4JmR-QF9PhwBqu2zTCsCDB_yXT3K4FdKY_FmnaLmXXGnKRz1ivgP2XbAFPfo6DRMtd19s8MWG0fCjHuVqczsCPLTBFaEFuCn3nOJYe5GI",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJiY787npzhlQRBF38KCx3UwQ",
+            "plus_code": {
+                "compound_code": "6RMR+W8 Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+W8"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJiY787npzhlQRBF38KCx3UwQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 160,
+            "vicinity": "2279 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2344926,
+                    "lng": -123.1592088
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2359153302915,
+                        "lng": -123.1578437197085
+                    },
+                    "southwest": {
+                        "lat": 49.2332173697085,
+                        "lng": -123.1605416802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Khao Thai by Legato Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103163489218061187040\">Thanai Charoenkul</a>"
+                    ],
+                    "photo_reference": "Aap_uEDc6rDsBFelPmvoXbY5VtxMuNOciq4moXyqPa4Fof8A8EKDeRiC9jX1kpP28g_i56eY-o4QGrHyHJkaD47vSr0UXRRjWe10GtD4dCvsCxh7ajMwG5HjsfCFnBd_7eUCKi-Mr5MVKXGLxryUmcSUvgWy6k6ZTnLPf292Hyrj1wyNtvy1",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJb4hO5npzhlQRFjji9XsgqeI",
+            "plus_code": {
+                "compound_code": "6RMR+Q8 Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+Q8"
+            },
+            "rating": 4.2,
+            "reference": "ChIJb4hO5npzhlQRFjji9XsgqeI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 110,
+            "vicinity": "2248 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2347764,
+                    "lng": -123.1592823
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2362822302915,
+                        "lng": -123.1579244697085
+                    },
+                    "southwest": {
+                        "lat": 49.2335842697085,
+                        "lng": -123.1606224302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kokoro Tokyo Mazesoba - Kerrisdale",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108621772354035143100\">Momo Royale</a>"
+                    ],
+                    "photo_reference": "Aap_uEBZx386mxmGeZv_XgX3bzNLKh45L6dtq_cSIe_AUOcongRG-xkHXsxFls5ZpzqsDtbr5F7tNvk1hzjb8oGyFOAo5LmaLmrkP1kdEEtLdy36Kwk_fUWa6Hot8quIDmqoe1AdtOedyen-Pe94WxCwAfaj9Q03CRZ2FrsDIXRT-F7yrshl",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJTVXwvcZzhlQRMwBXLDlgvDo",
+            "plus_code": {
+                "compound_code": "6RMR+W7 Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+W7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJTVXwvcZzhlQRMwBXLDlgvDo",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65,
+            "vicinity": "2285 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2344887,
+                    "lng": -123.159334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2359149802915,
+                        "lng": -123.1579702197085
+                    },
+                    "southwest": {
+                        "lat": 49.2332170197085,
+                        "lng": -123.1606681802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Irashai Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2975,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109250092424865409378\">Dan Gleadle</a>"
+                    ],
+                    "photo_reference": "Aap_uECRf6hLMVrBTRSVPDxd8cHYnLK4rl-5hrVYXKqyOd4mVTq-2l80CWWGFXNVYPlDPpkF0Oq942j_RWWnn1EcGRW5WZJeH7i0ELA2XgZa_I1XF3JhMz_eJ2Fg5GpQJAbAPCVObIrKRrelLK1e8AZXnj7sgMYl8JvFYomfzHrKBdC4h_ba",
+                    "width": 2975
+                }
+            ],
+            "place_id": "ChIJL2-f6HpzhlQRWH5kBaTfxA4",
+            "plus_code": {
+                "compound_code": "6RMR+Q7 Vancouver, BC, Canada",
+                "global_code": "84XR6RMR+Q7"
+            },
+            "price_level": 2,
+            "rating": 3.4,
+            "reference": "ChIJL2-f6HpzhlQRWH5kBaTfxA4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 133,
+            "vicinity": "2260 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2316103,
+                    "lng": -123.1558766
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23295998029149,
+                        "lng": -123.1544379697085
+                    },
+                    "southwest": {
+                        "lat": 49.2302620197085,
+                        "lng": -123.1571359302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Chi Noodle Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113179269765624943091\">Beezer333 Beezer333</a>"
+                    ],
+                    "photo_reference": "Aap_uEDHGz9FEp0VBsyaLVRXgxf-iY2bC5w79kUsd0lYJFno7zsFOwobGxw6RMvYcJEBPHbd3ZfWefdrxc4RUMcuprSCfjlujn144dYID2w9AHPUP-ItCWqoZvC34Om1jq6Ox0XgKh_soL1_SV3iHuOQugXmWEqh-hAJrNQ6ne47wZeWvQu2",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJHewHxAZzhlQRjkwCR0iBMuM",
+            "plus_code": {
+                "compound_code": "6RJV+JJ Vancouver, BC, Canada",
+                "global_code": "84XR6RJV+JJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJHewHxAZzhlQRjkwCR0iBMuM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 179,
+            "vicinity": "6019 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.231583,
+                    "lng": -123.1558883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23293263029149,
+                        "lng": -123.1544442697085
+                    },
+                    "southwest": {
+                        "lat": 49.23023466970849,
+                        "lng": -123.1571422302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Chicko Chicken",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113473832551981667055\">Thomas</a>"
+                    ],
+                    "photo_reference": "Aap_uED_Wszl0teDkDC_zBGKvFdSUwUsZKlOvf5kYy4KRQtnyfjM-BPR7LMJwd224riv89263QG9r-xNiHA7_Ve_fCkY5GOhTQsu69FX38Qotb8IGjPdWrjYSrFrGszDCX0pA-ETzlbqZndS7WlfenUjSwpmkn2NR5H4htATeRvDwBaz9Yca",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ15BPPdhzhlQRdVTo_g9S294",
+            "plus_code": {
+                "compound_code": "6RJV+JJ Vancouver, BC, Canada",
+                "global_code": "84XR6RJV+JJ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ15BPPdhzhlQRdVTo_g9S294",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 58,
+            "vicinity": "6023 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2374522,
+                    "lng": -123.1556277
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23882828029149,
+                        "lng": -123.1542149697085
+                    },
+                    "southwest": {
+                        "lat": 49.2361303197085,
+                        "lng": -123.1569129302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Bufala Kerrisdale",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112278952869329204333\">Jay Holtslander</a>"
+                    ],
+                    "photo_reference": "Aap_uECYztLLENctfL-8s63xZWUb1gcp0J9OPy-mqRYL5TbpLYH-Hu-abxZID52kXkA5_syE1yEoD0m5dbsML79Qo_pHduFu00zxqUt7-NCsYcirWJdWJpwPd-qjO0xw_w1B9l4PyMftePSTc78Wx71lY868rtDmGL-yoHMqnycVWJo8iSrs",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJLdgI-XlzhlQRpSzGhY1D2BE",
+            "plus_code": {
+                "compound_code": "6RPV+XP Vancouver, BC, Canada",
+                "global_code": "84XR6RPV+XP"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJLdgI-XlzhlQRpSzGhY1D2BE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 578,
+            "vicinity": "5395 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23134750000001,
+                    "lng": -123.1559389
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23267858029151,
+                        "lng": -123.1547995197085
+                    },
+                    "southwest": {
+                        "lat": 49.22998061970851,
+                        "lng": -123.1574974802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Southern Delicacy",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101817213644451414138\">applejuicecanada</a>"
+                    ],
+                    "photo_reference": "Aap_uEDFdHAugc455hki1-0vUAEslaIIhjgVmBxnrzj7Cir98FUwC4g1aYbZchaMmCowIhT7a1RZa7v6gMaX49hBN0oD8uMc6dNlWgkQqMZ0Er23LQLI2McAutwBTRBq48hKhc8_KGA4Sa9QUbrX0R1FiE8heOBmYc54-4uCdi41DAJmxlPU",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ6WbKatZzhlQRXsf1_W3mzw4",
+            "plus_code": {
+                "compound_code": "6RJV+GJ Vancouver, BC, Canada",
+                "global_code": "84XR6RJV+GJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ6WbKatZzhlQRXsf1_W3mzw4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 93,
+            "vicinity": "6055 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.237693,
+                    "lng": -123.155612
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2390343302915,
+                        "lng": -123.1542003197085
+                    },
+                    "southwest": {
+                        "lat": 49.2363363697085,
+                        "lng": -123.1568982802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "White Spot Kerrisdale",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112278952869329204333\">Jay Holtslander</a>"
+                    ],
+                    "photo_reference": "Aap_uEARmp17rrM2E-Bnlo1NNij9ibNXkB8sah8uGOlolTkSxuw_bKHEZ1BH4Stt8FnrupjdxZPD_gOCuQXT8DqQFTP4tj_LBYB3rQadLyzUfavvG8IgkEDm3JRzNeQcFQMuoEJRWKRmfeE86Pb6JOh4Ki377WAj7CBn4IFCjWoX4t6FbAC5",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJkWXK_XlzhlQRxUuv-2x-KME",
+            "plus_code": {
+                "compound_code": "6RQV+3Q Vancouver, BC, Canada",
+                "global_code": "84XR6RQV+3Q"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJkWXK_XlzhlQRxUuv-2x-KME",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 722,
+            "vicinity": "5367 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2377955,
+                    "lng": -123.1556282
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2391408302915,
+                        "lng": -123.1542050697085
+                    },
+                    "southwest": {
+                        "lat": 49.2364428697085,
+                        "lng": -123.1569030302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sushi Time",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106967106430035351965\">Sushi Time</a>"
+                    ],
+                    "photo_reference": "Aap_uEBwD6xLRKLoBoMzeGWV7OHVDk6bVQ-Q5YASDhSX4T0aYWkzhjbJ4NV4I_0gh1tCZQ0LbtMbk0BbFrU4a1_u71w6syHlbKACZbXT7ImWyo8k9utQx-hsrrpp7bshC9GadRP3iOaRTld3fFO-vOqmrQ_unD8ClAlgQjfBAS47uCKnzjpF",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJuW0KjjtzhlQR7rT1uvfF0R0",
+            "plus_code": {
+                "compound_code": "6RQV+4P Vancouver, BC, Canada",
+                "global_code": "84XR6RQV+4P"
+            },
+            "rating": 4.9,
+            "reference": "ChIJuW0KjjtzhlQR7rT1uvfF0R0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55,
+            "vicinity": "5351 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 49.2306249,
+                    "lng": -123.155882
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2319721302915,
+                        "lng": -123.1544587197085
+                    },
+                    "southwest": {
+                        "lat": 49.2292741697085,
+                        "lng": -123.1571566802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "George's Pizza",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115816466981703455259\">Shawn Hsueh</a>"
+                    ],
+                    "photo_reference": "Aap_uEDi3JhKxSAhcXRyzr6ER34N-jWOopAotIE-wARR3xXHu1dB5k9KZf7yqrotqWnLsUw6S_mCa3IluxdqvF13cPMH-Ebs63M-ivwxnF_5umSv-yasB0SfsbzxAiFwD_CdYd-tMr-perh81LEzx0F-yr-17xCXLkaYZ8P_JQsF0xOzYAoM",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ-xELyHxzhlQRAMJTb6KXipo",
+            "plus_code": {
+                "compound_code": "6RJV+6J Vancouver, BC, Canada",
+                "global_code": "84XR6RJV+6J"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ-xELyHxzhlQRAMJTb6KXipo",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 210,
+            "vicinity": "6109 West Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2343944,
+                    "lng": -123.1615111
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23572608029151,
+                        "lng": -123.1600863197085
+                    },
+                    "southwest": {
+                        "lat": 49.23302811970851,
+                        "lng": -123.1627842802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Jiu Jiang Japanese Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105492594627207805171\">Jiu Jiang Japanese Restaurant</a>"
+                    ],
+                    "photo_reference": "Aap_uEBdy9d1hMsdqAGb0EOmcLsbHyNalR-JDUzl8W6D05AKPVSzRkhf1lrRm1hCeOGMPyhSIraoKTJvjH2Ga5vskmDDDJ-SxSA6sEeScUOSTfjmCVfDpotXhj5Kzy6OSs0ZR3MYMnUP7tbgT6_48vDneUkX1BEU52sR6FMjkjVSlvXQkVAL",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJw_TIt3pzhlQRR7uqa4lPEgE",
+            "plus_code": {
+                "compound_code": "6RMQ+Q9 Vancouver, BC, Canada",
+                "global_code": "84XR6RMQ+Q9"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJw_TIt3pzhlQRR7uqa4lPEgE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "5707 Balsam Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23484120000001,
+                    "lng": -123.1615593
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2361468302915,
+                        "lng": -123.1601037197085
+                    },
+                    "southwest": {
+                        "lat": 49.2334488697085,
+                        "lng": -123.1628016802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Barra 41",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108447064892600134497\">Barra 41</a>"
+                    ],
+                    "photo_reference": "Aap_uECkj3VbNIxjXtcOzIKO7OYGt0fD8xKzCkpZI50ELgf9uahjNtN87F74Xnjq1MGtGf3F82Z7xVeVj0UGXnZBI_4LTL12lUDFx0AIuEa5EBaEhC86y0Ze5ARnh0BURfauamJiltkXO6qIDQhP1knaLG0bO8sD8QYfIbdCmG5AMsKvUY_8",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJrSK0t3pzhlQRJzlIwv4Rsc8",
+            "plus_code": {
+                "compound_code": "6RMQ+W9 Vancouver, BC, Canada",
+                "global_code": "84XR6RMQ+W9"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJrSK0t3pzhlQRJzlIwv4Rsc8",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 189,
+            "vicinity": "2407 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2347718,
+                    "lng": -123.1616037
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2361207802915,
+                        "lng": -123.1602547197085
+                    },
+                    "southwest": {
+                        "lat": 49.2334228197085,
+                        "lng": -123.1629526802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Minerva Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3968,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107284978644097471094\">Solomon Chang</a>"
+                    ],
+                    "photo_reference": "Aap_uEAJJX6m71OQZXXbnoiToJpvHGMa_VapTq84q2LqdUcE6H-by0KgfNzo-8Dp13cVGWShiUVKcrYARZU8QIxBbNwWydA4ExRkOCet2GNol7uNGsVS-GBoOOlWR8gbu72drAsjWibAOKbH1u4RWNDs8xNXwNGYitWY7pbfuJE4-DISGtxj",
+                    "width": 2976
+                }
+            ],
+            "place_id": "ChIJWSFJtnpzhlQRfhTTUMJTgPU",
+            "plus_code": {
+                "compound_code": "6RMQ+W9 Vancouver, BC, Canada",
+                "global_code": "84XR6RMQ+W9"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJWSFJtnpzhlQRfhTTUMJTgPU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 547,
+            "vicinity": "2411 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23444440000001,
+                    "lng": -123.1619444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2359106302915,
+                        "lng": -123.1605076697085
+                    },
+                    "southwest": {
+                        "lat": 49.23321266970851,
+                        "lng": -123.1632056302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Lok's Chinese Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114288042566495812069\">Kevin T</a>"
+                    ],
+                    "photo_reference": "Aap_uECmyfY30_yTDcmSW3_rWIaFqL0MNkQMwrRul0wjbLnONooj8fGugiMxs2RHB7Ku0QpuIdmw7rsAobK9Z5VPs7A3Ssr15Ynhp4nfx1wdI6hQG3DGBY4lrW3Ypczzyw4TXE3HJ7uoBV3Rki_4aNe-MvtAadwDdkPd103hHuBZIVs16_0x",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzdOktXpzhlQR98yq-XVJCaE",
+            "plus_code": {
+                "compound_code": "6RMQ+Q6 Vancouver, BC, Canada",
+                "global_code": "84XR6RMQ+Q6"
+            },
+            "rating": 3.4,
+            "reference": "ChIJzdOktXpzhlQR98yq-XVJCaE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127,
+            "vicinity": "2436 West 41st Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2291004,
+                    "lng": -123.1550267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2304504302915,
+                        "lng": -123.1537738197085
+                    },
+                    "southwest": {
+                        "lat": 49.22775246970851,
+                        "lng": -123.1564717802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Boiled Egg WORLD",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104531759137748247737\">Sharmay H</a>"
+                    ],
+                    "photo_reference": "Aap_uEBeNyN0qvFE8AMD3mt5buDp_DScWHS92kmjYaOnnjUIa3Frb6hD5LdGOA_wG2ISdIiYc6KEqR-m0o5Wz1H4L69KTCgk19GUH3Hxcq_00cOr1qm8A9JV2I6jwPlYpHoatsl1v6ZIa7nzgbJGAEmHtQ9ARoLa0Lj5wgmjqLodFfPOEQ6g",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJjbaVNRVzhlQR7r9eJ2w0UIA",
+            "plus_code": {
+                "compound_code": "6RHV+JX Vancouver, BC, Canada",
+                "global_code": "84XR6RHV+JX"
+            },
+            "rating": 3.6,
+            "reference": "ChIJjbaVNRVzhlQR7r9eJ2w0UIA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 125,
+            "vicinity": "6290 East Boulevard, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2341819,
+                    "lng": -123.1401924
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2354716802915,
+                        "lng": -123.1390168697085
+                    },
+                    "southwest": {
+                        "lat": 49.2327737197085,
+                        "lng": -123.1417148302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Hikari Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115367794522647989627\">Warren H. Wong</a>"
+                    ],
+                    "photo_reference": "Aap_uECdrn9Li7-wsSxJv929iCT9EEjW8E_gMSZ4kaJal7uaG94w9PaUR--0Dbw_OljGoDRhWeZIyHtr_WiBUj8IkY_dnFoSTX4EC9Y-qsXxrM5x4NM7i9rngrJ5pkphV39BUyHiVQ20MEth_BAT6kqcjI_wHjR4cI4D6U1lg2XLahJwsKU6",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6RGXM4BzhlQRBDu24fv8BfI",
+            "plus_code": {
+                "compound_code": "6VM5+MW Vancouver, BC, Canada",
+                "global_code": "84XR6VM5+MW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ6RGXM4BzhlQRBDu24fv8BfI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59,
+            "vicinity": "5701 Granville Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2341451,
+                    "lng": -123.140103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2355921802915,
+                        "lng": -123.1386633197085
+                    },
+                    "southwest": {
+                        "lat": 49.23289421970851,
+                        "lng": -123.1413612802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Grand Honour Restaurant \u963f\u4e00\u9c8d\u7fc5",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 889,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114079674369968974757\">Grand Honour Restaurant \u963f\u4e00\u9c8d\u7fc5</a>"
+                    ],
+                    "photo_reference": "Aap_uEDVLJPu3a5fvEcXX9fiYfi2lGN7F9q7SWrmMbyZ_8aM56Aesq0lNpi0nVkUScpccemMX74GP74PraEBZR-De8xs1bVjFWcyJHhh6u8sMeTk48_rh2uUULIYurW9L_8qQHs9gk02MQKhbqTyibHqK-5dApzi5-lgrpUZFzFZ_GS8I34e",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJ5byQMYBzhlQRb2GqFTVT4vA",
+            "plus_code": {
+                "compound_code": "6VM5+MX Vancouver, BC, Canada",
+                "global_code": "84XR6VM5+MX"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJ5byQMYBzhlQRb2GqFTVT4vA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 231,
+            "vicinity": "5701 Granville Street B1, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.23389880000001,
+                    "lng": -123.1400315
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2351779802915,
+                        "lng": -123.1385693697085
+                    },
+                    "southwest": {
+                        "lat": 49.2324800197085,
+                        "lng": -123.1412673302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kyuzo Japanese Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106292743634914786148\">Donna Marion</a>"
+                    ],
+                    "photo_reference": "Aap_uEA9WiN4CG3rG23-mrkVOgZKehzmOd2qSVrid4xkFb6h-qUA4Rv3v1iuedkuVaVg3q2yXAzsLb-XqzUo5IH3cvbOPAFfPpKZmjim-4cETMgXWLbu59AF-VgvjGCmnufkBDHSkTWt-P_SRzkf7cNe7HLaYSB6nY82U-EJGdfOe6g2ltZI",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJeXYDNIBzhlQRNkGaTWf3OYI",
+            "plus_code": {
+                "compound_code": "6VM5+HX Vancouver, BC, Canada",
+                "global_code": "84XR6VM5+HX"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJeXYDNIBzhlQRNkGaTWf3OYI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 175,
+            "vicinity": "112-5701 Granville Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2339329,
+                    "lng": -123.1399534
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2351961302915,
+                        "lng": -123.1387129197085
+                    },
+                    "southwest": {
+                        "lat": 49.23249816970851,
+                        "lng": -123.1414108802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Tao's Kitchen",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102540307563898127821\">Tao&#39;s Kitchen \u9676\u9676\u5c45</a>"
+                    ],
+                    "photo_reference": "Aap_uEA0_ugWklQLP_31__iVFniJoPajswimjl3bZ6CyalYSeKytFFFcP7OAoWSUbGCkOf3AM7NGEZ4gjS7RELyQ7HxfVeW7bU60mhLISMZcSvSILj6es_Zb6m7e_ZA5tTUxPUIKNi-pHJxFsDZDYsP0zg4KoEykEnNsnbmo0Ul4qTBex7w",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ42_DMYBzhlQRnst81B5HhFk",
+            "plus_code": {
+                "compound_code": "6VM6+H2 Vancouver, BC, Canada",
+                "global_code": "84XR6VM6+H2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ42_DMYBzhlQRnst81B5HhFk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "5701 Granville Street #110, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2444905,
+                    "lng": -123.1539172
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2458763302915,
+                        "lng": -123.1524675197085
+                    },
+                    "southwest": {
+                        "lat": 49.2431783697085,
+                        "lng": -123.1551654802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Finest At Sea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116727450107138064149\">Albert Fonse</a>"
+                    ],
+                    "photo_reference": "Aap_uEB1Vc_NORJSmwBQSno3CdTG2eZGQPO7CtzEYoyj2eCx52i8oEyJ-zXl_8mVhZ3tSzJVdsHGq1Ca8_dTBLTlLjq-AMxb0-RkY9_0gQbcextYyJanma2SODhlD2esFsgFFIfuqMWDV82iFO9HtzMnZtxEOUBfvknibwtYam0RmVPcLcK8",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJmzoD951zhlQR6AkoOXT34r4",
+            "plus_code": {
+                "compound_code": "6RVW+QC Vancouver, BC, Canada",
+                "global_code": "84XR6RVW+QC"
+            },
+            "price_level": 3,
+            "rating": 4.1,
+            "reference": "ChIJmzoD951zhlQR6AkoOXT34r4",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 147,
+            "vicinity": "4675 Arbutus Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2445583,
+                    "lng": -123.1539749
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2459202302915,
+                        "lng": -123.1525001197085
+                    },
+                    "southwest": {
+                        "lat": 49.2432222697085,
+                        "lng": -123.1551980802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Subway",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105469976715214350883\">Subway</a>"
+                    ],
+                    "photo_reference": "Aap_uEDuoSlqNSsHrG2KacX_6UY4fphgwSUxbjcvqgfNRkM6lpW4Arn0qFHUfrqyb14e-o_23hzFUYPoiCygyWBQX-CYU66dVTzOSQAuEqtnVJiAbsIM89TXnjDET-eJLt0aYuYQg99Z7AmvLSFkGYzmhbsbIwRVORr9z-GX24e1GQvvetUD",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJpS5y-51zhlQRi-ewR0hCzYA",
+            "plus_code": {
+                "compound_code": "6RVW+RC Vancouver, BC, Canada",
+                "global_code": "84XR6RVW+RC"
+            },
+            "price_level": 1,
+            "rating": 3.4,
+            "reference": "ChIJpS5y-51zhlQRi-ewR0hCzYA",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "4665 Arbutus Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2338713,
+                    "lng": -123.1389901
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2352143302915,
+                        "lng": -123.1376987197085
+                    },
+                    "southwest": {
+                        "lat": 49.2325163697085,
+                        "lng": -123.1403966802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Tim Hortons",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114192755568157596353\">Ilya A</a>"
+                    ],
+                    "photo_reference": "Aap_uECqhEImzWZtlqvm5YRdNkrgp2zlepOj7w0yMymv5F99EkBg1_T6m57DoPM2gyVcDbFzcYtciLiDU-250ihuxtNBdAedztwYSc55K-Zj_0LOwL1wnODiFkqWbjo_u30E0q0EfTIJ_hAMBTqaoThHjZGa4b3lIAnCCqSQI81lMEidyMeE",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJIS8xNIBzhlQR3_Ufr44dMwk",
+            "plus_code": {
+                "compound_code": "6VM6+GC Vancouver, BC, Canada",
+                "global_code": "84XR6VM6+GC"
+            },
+            "price_level": 1,
+            "rating": 3.5,
+            "reference": "ChIJIS8xNIBzhlQR3_Ufr44dMwk",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 94,
+            "vicinity": "5702 Granville Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.24256150000001,
+                    "lng": -123.1701078
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.24391108029151,
+                        "lng": -123.1688275697085
+                    },
+                    "southwest": {
+                        "lat": 49.24121311970851,
+                        "lng": -123.1715255302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "BIGSBY THE BAKEHOUSE",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1524,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104379805298467618058\">Ryan Chen-Wing</a>"
+                    ],
+                    "photo_reference": "Aap_uEBVKue_ZH1ZX5CCUjAFjtwi51rA4Baie7isJKfbTt1lRE-Kn83TB0x9lTyBlgm1UyfU1yhsP5SDAIsTg9zDJp550ANY8sPycQsRDwlaw2eGJuZoBIvT7OjlW5_S9hJFvwaZCPQ944Jp2DxmdepaD3Bcvf6yyYWZcamiuxqRT3Nda6_M",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJkehfjXJzhlQRVm_pumRqPqU",
+            "plus_code": {
+                "compound_code": "6RVH+2X Vancouver, BC, Canada",
+                "global_code": "84XR6RVH+2X"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJkehfjXJzhlQRVm_pumRqPqU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115,
+            "vicinity": "4894 Mackenzie Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2425667,
+                    "lng": -123.1704175
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.24391848029151,
+                        "lng": -123.1689823197085
+                    },
+                    "southwest": {
+                        "lat": 49.24122051970851,
+                        "lng": -123.1716802802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Windsor Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1530,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117638831487125922939\">Windsor Market</a>"
+                    ],
+                    "photo_reference": "Aap_uEDZo-xu8kelDOpXjiTAbVmS1C0SC5utwFIqS7XjERRA0I5sfz8xnb6W0AeAApXXqkBO5P0mwZR2vOL8vP7w6WhhQvfXZZDqMCTtRHyxBuD-kL2W_KcOBe7rEZbskhn8f3-ZulyUyRV-W58-rT3I2mwB8agXkCvJ8PryxHXOXU9Z0eGu",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJGR_JknJzhlQRGlrTenU4AgE",
+            "plus_code": {
+                "compound_code": "6RVH+2R Vancouver, BC, Canada",
+                "global_code": "84XR6RVH+2R"
+            },
+            "rating": 4.4,
+            "reference": "ChIJGR_JknJzhlQRGlrTenU4AgE",
+            "scope": "GOOGLE",
+            "types": [
+                "grocery_or_supermarket",
+                "supermarket",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 48,
+            "vicinity": "4889 Mackenzie Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2487,
+                    "lng": -123.1518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2498475302915,
+                        "lng": -123.1505098197085
+                    },
+                    "southwest": {
+                        "lat": 49.2471495697085,
+                        "lng": -123.1532077802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Arbutus Club",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110880324587116775960\">The Arbutus Club</a>"
+                    ],
+                    "photo_reference": "Aap_uEBqfko3_uqN6f3RO2VQeADWlp4Gllv6IYyPTeeb74VYAmW-3BQpclPAE09yuEyB95-V5AaKjLhrURV2W9rXnbb2lCcZnYNbpPbzJ8XchPstfe9Op_4Jm7pR2oyfv115ywKaFUE_SUa0MgLpMpB9Z5QblXY6HwS0-f7FbAefPmI0r2RF",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJldKi0Z5zhlQR_stc2pb98-4",
+            "plus_code": {
+                "compound_code": "6RXX+F7 Vancouver, BC, Canada",
+                "global_code": "84XR6RXX+F7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJldKi0Z5zhlQR_stc2pb98-4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 345,
+            "vicinity": "2001 Nanton Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2193461,
+                    "lng": -123.1493145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2207532802915,
+                        "lng": -123.1481434697085
+                    },
+                    "southwest": {
+                        "lat": 49.2180553197085,
+                        "lng": -123.1508414302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Land & Sea Restaurant & Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112206871310530520166\">Land &amp; Sea Restaurant &amp; Bar</a>"
+                    ],
+                    "photo_reference": "Aap_uEAAJmFcSKId22OkW6CMvfR0zKs7FqM0hkj7HgOV0TkFd8vmqqs4e9UhJd3-zcUFj_sDX7fKHPjUad066ERkxj7h9q2LHfNAEVqkZRUFU7JGDdcR-RmlxzGXgCT24VcHyC0ngom7npt6ZNPkFFDkUpklSH2GK9Zhcr_9stHx0zOeKOiE",
+                    "width": 7952
+                }
+            ],
+            "place_id": "ChIJp2Gg2tx1hlQRk0V3_4afIiI",
+            "plus_code": {
+                "compound_code": "6V92+P7 Vancouver, BC, Canada",
+                "global_code": "84XR6V92+P7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJp2Gg2tx1hlQRk0V3_4afIiI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 299,
+            "vicinity": "1864 West 57th Avenue, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2209779,
+                    "lng": -123.1680959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2223263802915,
+                        "lng": -123.1667349697085
+                    },
+                    "southwest": {
+                        "lat": 49.2196284197085,
+                        "lng": -123.1694329302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "McCleery Golf Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2778,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100943022318360182323\">\u3044\u3057\u304b\u308f\u307e\u304d</a>"
+                    ],
+                    "photo_reference": "Aap_uEDnGvcayYqWfz54ZqIHpJttyWVIzmKFyCHUoJ3gogvXu9T7ekNrI5x3_6QNl2mcYcC5ZNUCgBPQg4aJvY4wxRzlim4eIf3rjWCoDw-7iRye4v0-TVUDOFRthNZILJw_rzGy_JQMH_DTJwwyqgWFBWL4RXcETd3oJn_Xabck5F-FgdxT",
+                    "width": 3704
+                }
+            ],
+            "place_id": "ChIJ71orYqJ0hlQR7mTXCRvhtQ8",
+            "plus_code": {
+                "compound_code": "6RCJ+9Q Vancouver, BC, Canada",
+                "global_code": "84XR6RCJ+9Q"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ71orYqJ0hlQR7mTXCRvhtQ8",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "7188 Macdonald Street, Vancouver"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 49.2386995,
+                    "lng": -123.1296129
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.2397851302915,
+                        "lng": -123.1278789697085
+                    },
+                    "southwest": {
+                        "lat": 49.23708716970851,
+                        "lng": -123.1305769302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Shaughnessy Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 596,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110051805727273652952\">Shaughnessy Restaurant</a>"
+                    ],
+                    "photo_reference": "Aap_uECXwrieoiEn__0iZpYY3sidzwdq-qfi17ttEuSkrFz0kxNMRGnhlUB9Qm1M-OOuZQazac_G0yT2QyaDH33me_Cfp_Qs96__ficJX1XMDqT0cKjt8PhSHyogT8I04dMumA5PtXidG8SXNxVNCFSGEapyYvFwl7Jl7POcJFPBKbYFfMOv",
+                    "width": 400
+                }
+            ],
+            "place_id": "ChIJU2TMMYZzhlQR4Fl7xNjFAiE",
+            "plus_code": {
+                "compound_code": "6VQC+F5 Vancouver, BC, Canada",
+                "global_code": "84XR6VQC+F5"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJU2TMMYZzhlQR4Fl7xNjFAiE",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 527,
+            "vicinity": "5251 Oak Street, Vancouver"
+        }
+    ],
+    "status": "OK"
+}
